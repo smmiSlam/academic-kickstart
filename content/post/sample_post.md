@@ -17,4 +17,4 @@ caption = ""
 
 +++
 
-Will I get admission?
+Will it start? Has it started already? Will it end? Has it ended already?
