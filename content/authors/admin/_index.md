@@ -63,4 +63,4 @@ user_groups:
 - Visitors
 ---
 
-I am most intrigued by how nature has solved the problem of designing sustainable life form in earth. To me this seems like one of the biggest and most perfect examples of learning from the scratch.
+SM Mazharul Islam is an enthusist in machine learning (ML) and artificial intellienge (AI). His research goal is to build a generalized learning model which can process data from various domains and combine the aquired infromation within a generalized knowledge base. He has prior research experience in signal processing, image approximation, image segmentation and sentiment analysis.
