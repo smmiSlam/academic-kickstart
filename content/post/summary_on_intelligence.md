@@ -9,7 +9,7 @@ draft = false
 authors = ["SM Mazharul Islam"]
 
 tags = ["Common Knowledge"]
-summary = "rom biological brain to artificial general intelligence.  "
+summary = "From biological brain to artificial general intelligence.  "
 
 [header]
 image = ""
