@@ -21,16 +21,16 @@ organizations:
 bio: My research interests include artificial generalized intelligence and natural language processing.
 
 interests:
-- Artificial General Intelligence
-- Computational Linguistics
+- Artificial General Intelligence (AGI)
+- Natural Language Processing (NLP)
 
 education:
   courses:
   - course: MS in Electrical Engineering
     institution: Hong-Ik University, Seoul, South Korea
     year: 2018
-  - course: BSc in Electrical & Electronic Engineering
-    institution: Bangladesh University of Engineering and Technology (BUET)
+  - course: BSc in Electrical Engineering
+    institution: Bangladesh University of Engineering & Technology (BUET)
     year: 2015
 
 # Social/Academic Networking
@@ -40,7 +40,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:mazharul2752@gmail.com".
+  link: mailto:mazharul2752@gmail.com
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=fp4fYMsAAAAJ&hl=en
