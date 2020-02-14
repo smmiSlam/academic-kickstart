@@ -1,8 +1,8 @@
 +++
-title = "What to do after reading a paper"
+title = "Summary of On Intelligence by Jeff Hawkins"
 
-date = 2020-02-11T00:00:00
-lastmod = 2020-02-11T00:00:00
+date = 2020-02-15T00:00:00
+lastmod = 2020-02-15T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
