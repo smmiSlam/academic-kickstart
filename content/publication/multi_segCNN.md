@@ -44,7 +44,7 @@ projects = []
 tags = ["Retinal Blood Vessel", "Convolutional Neural Network", "Multi-Scale", "Semantic Segmentation"]
 
 # Links (optional).
-url_pdf = 
+url_pdf = ""
 url_preprint = "https://www.researchgate.net/publication/336890473_Semantic_Segmentation_of_Retinal_Blood_Vessel_via_Multi-_Scale_Convolutional_Neural_Network"
 url_code = ""
 url_dataset = ""
