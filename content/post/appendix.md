@@ -2,7 +2,7 @@
 title = "Appendix"
 
 date = 2020-02-15T00:00:00
-lastmod = 2020-02-22T00:22:43
+lastmod = 2020-02-22T00:22:50
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -22,8 +22,7 @@ Auto-associative memories are content based memories which can recall a stored s
 
 The simplest version of auto-associative memory is linear associator which is a 2-layer feed-forward fully connected neural network where the output is constructed in a single feed-forward computation.
 
-[image: auto-associative-memory]
-{{< figure src="/img/auto_associative_memory.png" title="Forming invariant representations in hearing, vision, and touch. Images from  TutorialPoints.  " numbered="true" lightbox="true" width="50%">}}
+{{< figure src="/img/auto_associative_memory.png" title="Model for auto-associative memory. Images from  TutorialPoints.  " numbered="true" lightbox="true" width="50%">}}
 
 All inputs are connected to all outputs via the connection weight matrix 'W' where each element of 'W_ij' denotes the strength of unidirectional connection from the 'i' input to the 'j' output. Since in auto-associative memories, we have x = y . Therefore, all stored sequences must be eigenvectors of matrix 'W'. Assuming all stored sequences are
 orthogonal to each other, we can represent the weight matrix as W = XX^{-1} = XX^T, where X is orthonormal matrix of all stored sequences. Also, we are enforcing the weight matrix W to be symmetric so W_ij = W_ji. So, assuming we have 'p' sequences to store in our memory we can rewrite weight matrix as:
