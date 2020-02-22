@@ -2,7 +2,7 @@
 title = "Summary of On Intelligence by Jeff Hawkins"
 
 date = 2020-02-15T00:00:00
-lastmod = 2020-02-22T00:00:00
+lastmod = 2020-02-22T00:22:12
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -22,6 +22,7 @@ caption = ""
 The key concept in understanding intelligence is that understanding is an intrinsic concept happens within the agent who is trying to understand something. External behavious is not a good indicator of understanding or intelligent. 
 
 Three major things are essential to understanding the brain. 
+
 1. Inclusion of Time
 2. Importance of Feedback
 3. Physical architecture of the brain
@@ -29,6 +30,7 @@ Three major things are essential to understanding the brain.
 ## Neo-Cortical Memory
 
 It is because biological brains retrives answer of a problem from memory rather than computing the solution everytime, it seems so fast compared to conventional computers. This neocortical memory is different than computer memory in the following aspects:
+
 1. The neocortex stores sequences of patterns.
 2. The neocortex recalls patterns auto-associatively.
 3. The neocortex stores patterns in an invariant form.
@@ -44,6 +46,7 @@ In an usual human brain, different regions of neo-cortex are assigned with diffe
 ## Major Functionalities of Neo-cortex
 
 ### Invarient Representation of Our Experiences
+
 Neo-cortex uses heirarchical memory storage system with feedback signals to predict about our next experience. This predictions process is never-ending but our attentions drawn towards them when the prediction do no meet the experience (input through sensors). As the signal travels up the hierarchy, the signal gets coverted from being spatially variant, fast changing, small-scale-features into spatially invariant, slow changing, large-scale-features.
 
 {{< figure src="/img/invarient-representations.png" title="Forming invariant representations in hearing, vision, and touch. Images from On Intelligence (2004).  " numbered="true" lightbox="true" width="100%">}}
@@ -57,11 +60,15 @@ Input signal from one sensory organ can be feed back and propagated down through
 
 
 ### Sequence of Sequences and Hierarchical Processing of Information
-Everything around us is built with a very nicely hierarchical manner. Like, electrons protons are forming atoms. Atoms are forming molecules, molecules forming compounds, then complex structures like a living human, an airplane, human-cortex is created. The underlying electron-protons are still same. So, through evolution, to memorize experience from this highly hierarchical surroundings, cortex has also developed hierarchical structures. Hence, memory inside each cortex regions are best described as sequences of sequences. 
+
+Everything around us is built with a very nicely hierarchical manner. Like, electrons protons are forming atoms. Atoms are forming molecules, molecules forming compounds, then complex structures like a living human, an airplane, human-cortex is created. The underlying electron-protons are still same. So, through evolution, to memorize experience from this highly hierarchical surroundings, cortex has also developed hierarchical structures. Hence, memory inside each cortex regions are best described as sequences of sequences.
+
 When a region of cortex is presented with some input, first it classifies the input into on of the limited number of possibilities, then looks for sequences. If lower regions of cortex fail to predict what patterns they are seeing, they consider this an error and pass the error up the hierarchy. This is repeated until some region does anticipate the pattern. Due to the formation of these sequences ambiguous inputs can be deciphered from the context (realizing that the current input is part of a previously expereinced sequence).
+
 Also due to these sequences each cortical regions can anticipate about what might be the next input that is most likely to come up (predicting a little into the future, probably that is what intelligence is). This future prediction is propagated down to the lower cortical regions and gives them a heads up on what sort of input is to expect next. So, it's like the higher regions are giving a context to the lower regions, and the lower regions look for related requences within the input stream.
 
 ## Common Cortical Algorithm
+
 To make the cortex symmetric in every region and every layer, the following model is proposed. This shows that the cortex do not care in which region or in which layer it is currently situated. Rather it does the same operation everywhere, relay converging information from lower sub-regions to higher higher association areas and send down feedback signals from higher association regions to lower sub-regions. This explain why cortex is not domain-specific, rather it treats all the incoming pattern and feedback signals universally. This is known as "Common Cortical Algorithm"
 
 {{< figure src="/img/common-cortical-algorithm.png" title="Alternate view of the cortical hierarchy. Images from On Intelligence (2004).  " numbered="true" lightbox="true" width="100%">}}
@@ -75,6 +82,7 @@ These are the main building block of neo-cortex. Each cell has a cell body, axon
 
 
 ### A Region of Neo-Cortex - Layers and Columns
+
 Each major region of the neo-cortex is comprised of lots of smaller regions. However, everywhere we can see six layers of cortical tissues. The top, called layer 1, is the most distinct of the six layers. It has very few cells, consisting primarily of a mat of axons running parallel to the cortical surface. Layers 2 and 3 look similar. They contain many tightly packed pyramidal cells. Layer 4 has a type of star-shaped cell. Layer 5 has regular pyramidal cells as well as a class of extra-big pyramid-shaped cells. The bottom layer, layer 6, also has several types of unique neurons.
 
 {{< figure src="/img/layers-and-columns-of-cortex.png" title="Layers and columns in a region of cortex. Images from On Intelligence (2004).  " numbered="true" lightbox="true" width="100%">}}
@@ -88,6 +96,7 @@ There are column-like structures that run parpendicular to the layers, and the c
 Converging inputs from lower regions always arrive at layer 4— the main input layer. In passing, they also form a connection in layer 6 (we'll see later why this is important). Layer 4 cells then send projections up to cells in layers 2 and 3 within their column. When a column projects information up, many layer 2 and layer 3 cells send axons to the input layer of that next higher region. Thus information flows from region to region up the hierarchy.
 
 {{< figure src="/img/upward-flow-of-info.png" title="Upward flow of information through a region of cortex. Images from On Intelligence (2004).  " numbered="true" lightbox="true" width="100%">}}
+
 {{< figure src="/img/downward-flow-of-info.png" title="Downward flow of information through a region of cortex. Images from On Intelligence (2004).  " numbered="true" lightbox="true" width="100%">}}
 
 
@@ -98,8 +107,7 @@ As information flows down the hierarchy, it has a less direct route. It can bran
 
 When the output of a group of artificial neurons is fed back to form the input to all the neurons, and a delay is added to the feedback, then patterns learn to follow each other in sequence. Cortical algorithm performs this delayed feedback with the help of Thalamus. Layer 5 cells throughout multiple cortical regions project to the thalamus, which sends the information back to layer 1 of those same and associated regions.
 
-{{< figure src="/img/with-thalamus.png" title="How current state and current motor behavior is communicated
-broadly via the thalamus. Images from On Intelligence (2004).  " numbered="true" lightbox="true" width="100%">}}
+{{< figure src="/img/with-thalamus.png" title="How current state and current motor behavior is communicated broadly via the thalamus. Images from On Intelligence (2004)." numbered="true" lightbox="true" width="100%">}}
 
 Hence, there are two inputs to layer 1. Higher regions of cortex spread activity across layer 1 in lower regions. Active columns within a region also spread activity across layer 1 in the same region via the thalamus. We can think of these
 inputs to layer 1 as the name of a song (input from above) and where we are in a song (delayed activity from active columns in the same region). Thus layer 1 carries much of the information we need to predict when a column should be active— the sequence name and where we are within the sequence. Using these two signals in layer 1, a region of cortex can learn and recall multiple sequences of patterns
@@ -118,7 +126,7 @@ To understand how a region of cortex does what it does, we want to know the foll
 
 - For a column of cells, if input from a lower region causes one of your layer 4 cells to fire, cells in layers 2 and 3, then 5, and then 6 also to fire subsequently. The entire column becomes active when driven from below. However, cells in layers 2, 3, and 5 each have thousands of synapses in layer 1. If some of these synapses are active when layer 2, 3, and 5 cells fire, the synapses are strengthened. If this occurs often enough, these layer 1 synapses become strong enough to make the cells in layers 2, 3, and 5 fire even when a layer 4 cell hasn't fired— meaning parts of the column can become active without receiving input from a lower region of the cortex. In this way, cells in layers 2, 3, and 5 learn to "anticipate" when they should fire based on the pattern in layer 1. Before learning, the column can only become active if driven by a layer 4 cell. After learning, the column can become partially active via memory.
 
-Half of the input to layer 1 comes from layer 5 cells in neighboring columns and regions of the cortex. This information represents what was happening moments before. It represents columns that were active prior to your column becoming active. The other half of the input to layer 1 comes from layer 6 cells in hierarchically higher regions. This information is more stationary. It represents the name of the sequence you are currently experiencing. Thus the information in layer 1 represents both the name of a sequence and the last item in the sequence. In this way, a particular column can be shared among many different sequences without getting confused. Columns learn to fire in the right context and in the correct order.
+- Half of the input to layer 1 comes from layer 5 cells in neighboring columns and regions of the cortex. This information represents what was happening moments before. It represents columns that were active prior to your column becoming active. The other half of the input to layer 1 comes from layer 6 cells in hierarchically higher regions. This information is more stationary. It represents the name of the sequence you are currently experiencing. Thus the information in layer 1 represents both the name of a sequence and the last item in the sequence. In this way, a particular column can be shared among many different sequences without getting confused. Columns learn to fire in the right context and in the correct order.
 
 
 3. How does it form a constant pattern or "name" for a sequence? \[confusing\]
@@ -128,7 +136,7 @@ Half of the input to layer 1 comes from layer 5 cells in neighboring columns and
 {{< figure src="/img/contsant-names-for-learned-sequence.png" title="Forming a constant name for a learned sequence. Images from On Intelligence (2004).  " numbered="true" lightbox="true" width="100%">}}
 
 
-To be active throughout a known sequence of patterns, Layer 2 cells could learn to be driven purely from the hierarchically higher regions of cortex. They could form synapses preferentially with the axons from layer 6 cells in the regions above. The layer 2 cells would therefore represent the constant name pattern from the higher region. When a higher region of cortex sends a pattern down to layer 1 of the region below, a set of layer 2 cells in the lower region would become active, representing all the columns that are members of the sequence. Since these layer 2 cells also project back to the higher region, they would form a semistable group of cells. 
+- To be active throughout a known sequence of patterns, Layer 2 cells could learn to be driven purely from the hierarchically higher regions of cortex. They could form synapses preferentially with the axons from layer 6 cells in the regions above. The layer 2 cells would therefore represent the constant name pattern from the higher region. When a higher region of cortex sends a pattern down to layer 1 of the region below, a set of layer 2 cells in the lower region would become active, representing all the columns that are members of the sequence. Since these layer 2 cells also project back to the higher region, they would form a semistable group of cells. 
 
 
 4. How does it make specific predictions from invarient representations (meeting the train at the right time, or predicting the specific note in a melody)
@@ -138,7 +146,7 @@ To be active throughout a known sequence of patterns, Layer 2 cells could learn 
 {{< figure src="/img/prediction-from-invariant-memories.png" title="How a region of cortex makes specific predictions from
 invariant memories. Images from On Intelligence (2004).  " numbered="true" lightbox="true" width="100%">}}
 
-In addition to projecting to lower cortical regions, layer 6 cells can send their output back into layer 4 cells of their own column. When they do, our predictions become the input. This is what we do when daydreaming or thinking. It
+- In addition to projecting to lower cortical regions, layer 6 cells can send their output back into layer 4 cells of their own column. When they do, our predictions become the input. This is what we do when daydreaming or thinking. It
 allows us to see the consequences of our own predictions.
 
 
