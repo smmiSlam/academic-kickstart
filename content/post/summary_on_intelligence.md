@@ -2,7 +2,7 @@
 title = "Summary of On Intelligence by Jeff Hawkins"
 
 date = 2020-02-15T00:00:00
-lastmod = 2020-02-22T00:22:12
+lastmod = 2020-02-22T00:22:24
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -113,7 +113,7 @@ Hence, there are two inputs to layer 1. Higher regions of cortex spread activity
 inputs to layer 1 as the name of a song (input from above) and where we are in a song (delayed activity from active columns in the same region). Thus layer 1 carries much of the information we need to predict when a column should be active— the sequence name and where we are within the sequence. Using these two signals in layer 1, a region of cortex can learn and recall multiple sequences of patterns
 
 
-## 7 How the Magic Happens
+## 7. How the Magic Happens
 
 To understand how a region of cortex does what it does, we want to know the follwoings:
 
