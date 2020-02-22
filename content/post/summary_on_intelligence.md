@@ -2,7 +2,7 @@
 title = "Summary of On Intelligence by Jeff Hawkins"
 
 date = 2020-02-15T00:00:00
-lastmod = 2020-02-22T00:22:30
+lastmod = 2020-02-23T00:03:05
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -119,14 +119,14 @@ To understand how a region of cortex does what it does, we want to know the foll
 
 1. How does a region of cortex classify its inputs (like the buckets)?
 
-- The layer 4 cells in every column receive input fibers from several regions below it and will fire if they have the right combination of inputs. When a layer 4 cell fires, it is "voting" that the input fits its label. Inputs can be ambiguous, so several columns might be possible matches for the input. To decide on one interpretation, a column with strong input should prevent other columns from firing. Brains have inhibitory cells that do just this. These inhibitory cells only affect the area surrounding a column. So even though there is a lot of inhibition, many columns in a region can still be active at once. Hence, despite of infibition, many columns will be active within a region, and these activitis associated with a set a columns is classified as input by each region of cortex.
+- The layer 4 cells in every column receive input fibers from several regions below it and will fire if they have the right combination of inputs. When a layer 4 cell fires, it is "voting" that the input fits its label. Inputs can be ambiguous, so several columns might be possible matches for the input. To decide on a single interpretation, a column with strong input should prevent other columns from firing. Brains have inhibitory cells that do just this. These inhibitory cells only affect the area surrounding a column. So even though there is a lot of inhibition, many columns in a region can still be active at once. Hence, despite of inhibition, many columns will be active within a region, and these activitis associated with a set a columns is classified as input by each region of cortex.
 
 
 2. How does it learn sequences of patterns (such as intervals of a melody, or the "eye nose eye" of a face)?
 
 - For a column of cells, if input from a lower region causes one of your layer 4 cells to fire, cells in layers 2 and 3, then 5, and then 6 also to fire subsequently. The entire column becomes active when driven from below. However, cells in layers 2, 3, and 5 each have thousands of synapses in layer 1. If some of these synapses are active when layer 2, 3, and 5 cells fire, the synapses are strengthened. If this occurs often enough, these layer 1 synapses become strong enough to make the cells in layers 2, 3, and 5 fire even when a layer 4 cell hasn't fired— meaning parts of the column can become active without receiving input from a lower region of the cortex. In this way, cells in layers 2, 3, and 5 learn to "anticipate" when they should fire based on the pattern in layer 1. Before learning, the column can only become active if driven by a layer 4 cell. After learning, the column can become partially active via memory.
 
-- Half of the input to layer 1 comes from layer 5 cells in neighboring columns and regions of the cortex. This information represents what was happening moments before. It represents columns that were active prior to your column becoming active. The other half of the input to layer 1 comes from layer 6 cells in hierarchically higher regions. This information is more stationary. It represents the name of the sequence you are currently experiencing. Thus the information in layer 1 represents both the name of a sequence and the last item in the sequence. In this way, a particular column can be shared among many different sequences without getting confused. Columns learn to fire in the right context and in the correct order.
+- Half of the input to layer 1 comes from layer 5 cells in neighboring columns and regions of the cortex. This information represents what was happening moments before. It represents columns that were active prior to your column becoming active. The other half of the input to layer 1 comes from layer 6 cells in hierarchically higher regions. This information is more stationary. It represents the name of the sequence you are currently experiencing. Thus, the information in layer 1 represent both the name of a sequence and the last item in the sequence. In this way, a particular column can be shared among many different sequences without getting confused. Columns learn to fire in the right context and in the correct order.
 
 
 3. How does it form a constant pattern or "name" for a sequence? \[confusing\]
