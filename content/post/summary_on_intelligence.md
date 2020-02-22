@@ -17,7 +17,7 @@ caption = ""
 
 +++
 
-# Intelligence and Biological Brain
+## 1. Intelligence and Biological Brain
 
 The key concept in understanding intelligence is that understanding is an intrinsic concept happens within the agent who is trying to understand something. External behavious is not a good indicator of understanding or intelligent. 
 
@@ -27,7 +27,7 @@ Three major things are essential to understanding the brain.
 2. Importance of Feedback
 3. Physical architecture of the brain
 
-## Neo-Cortical Memory
+## 2. Neo-Cortical Memory
 
 It is because biological brains retrives answer of a problem from memory rather than computing the solution everytime, it seems so fast compared to conventional computers. This neocortical memory is different than computer memory in the following aspects:
 
@@ -36,30 +36,30 @@ It is because biological brains retrives answer of a problem from memory rather 
 3. The neocortex stores patterns in an invariant form.
 4. The neocortex stores patterns in a hierarchy.
 
-## Neo-Cortex
+## 3. Neo-Cortex
 
 The neocortex is the part that probably contributes the most to our human-level intelligence. This thin multi-layer structure that encompasses the old brain is the place where learning takes place. It is mainly consisted of columns of neuron cells (6 cells per column in human neo-cortex) stacked tightly. Cells of same column has both feed-forward and feedback connections, usually feedback connection outnumbering feed-forward by a factor of 10. Also there are lateral connection among cells of the same hierarchy level. The notion of hierarchy and majority-feedback connections are of utmost importance. 
 
 In an usual human brain, different regions of neo-cortex are assigned with different tasks, lke region for processing auditory signal, regions for processing visual signal etc. However, it has been proven that all the regions have the same hierarchical structure and have the capability to process different signals if connected with associated signals/sensors. There are also association regions that receive input from different sensors.
 
 
-## Major Functionalities of Neo-cortex
+## 4. Major Functionalities of Neo-cortex
 
-### Invarient Representation of Our Experiences
+### 4.1 Invarient Representation of Our Experiences
 
 Neo-cortex uses heirarchical memory storage system with feedback signals to predict about our next experience. This predictions process is never-ending but our attentions drawn towards them when the prediction do no meet the experience (input through sensors). As the signal travels up the hierarchy, the signal gets coverted from being spatially variant, fast changing, small-scale-features into spatially invariant, slow changing, large-scale-features.
 
-{{< figure src="/img/invarient-representations.png" title="Forming invariant representations in hearing, vision, and touch. Images from On Intelligence (2004).  " numbered="true" lightbox="true" width="100%">}}
+{{< figure src="/img/invarient-representations.png" title="Forming invariant representations in hearing, vision, and touch. Images from On Intelligence (2004).  " numbered="true" lightbox="true" width="50%">}}
 
 
-### Multi-Sensory Predictions and Unified Sensory Experiences 
+### 4.2 Multi-Sensory Predictions and Unified Sensory Experiences 
 
 Input signal from one sensory organ can be feed back and propagated down through connected paths of associated memory of other sensory organs. This can evoke prediction from other sensors while input was received through another sensor. This type of associative multi-sensory prediction are the root in incidents like "if someone calls my name, I hear it, but involuntarily I move my face into the direction of the sound source, and expect to see the caller. Even though I didnt receive any signal thorugh my visual cortex"
 
-{{< figure src="/img/create-prediction-and-unified-sensory-exp.png" title="Information flows up and down sensory hierarchies to form predictions and create a unified sensory experience. Images from On Intelligence (2004).  " numbered="true" lightbox="true" width="100%">}}
+{{< figure src="/img/create-prediction-and-unified-sensory-exp.png" title="Information flows up and down sensory hierarchies to form predictions and create a unified sensory experience. Images from On Intelligence (2004).  " numbered="true" lightbox="true" width="50%">}}
 
 
-### Sequence of Sequences and Hierarchical Processing of Information
+### 4.3 Sequence of Sequences and Hierarchical Processing of Information
 
 Everything around us is built with a very nicely hierarchical manner. Like, electrons protons are forming atoms. Atoms are forming molecules, molecules forming compounds, then complex structures like a living human, an airplane, human-cortex is created. The underlying electron-protons are still same. So, through evolution, to memorize experience from this highly hierarchical surroundings, cortex has also developed hierarchical structures. Hence, memory inside each cortex regions are best described as sequences of sequences.
 
@@ -67,53 +67,53 @@ When a region of cortex is presented with some input, first it classifies the in
 
 Also due to these sequences each cortical regions can anticipate about what might be the next input that is most likely to come up (predicting a little into the future, probably that is what intelligence is). This future prediction is propagated down to the lower cortical regions and gives them a heads up on what sort of input is to expect next. So, it's like the higher regions are giving a context to the lower regions, and the lower regions look for related requences within the input stream.
 
-## Common Cortical Algorithm
+## 5. Common Cortical Algorithm
 
 To make the cortex symmetric in every region and every layer, the following model is proposed. This shows that the cortex do not care in which region or in which layer it is currently situated. Rather it does the same operation everywhere, relay converging information from lower sub-regions to higher higher association areas and send down feedback signals from higher association regions to lower sub-regions. This explain why cortex is not domain-specific, rather it treats all the incoming pattern and feedback signals universally. This is known as "Common Cortical Algorithm"
 
-{{< figure src="/img/common-cortical-algorithm.png" title="Alternate view of the cortical hierarchy. Images from On Intelligence (2004).  " numbered="true" lightbox="true" width="100%">}}
+{{< figure src="/img/common-cortical-algorithm.png" title="Alternate view of the cortical hierarchy. Images from On Intelligence (2004).  " numbered="true" lightbox="true" width="50%">}}
 
 
-## Architecture of Neo-Cortex
+## 6. Architecture of Neo-Cortex
 
-### Neuron Cells of Neo-Cortex
+### 6.1 Neuron Cells of Neo-Cortex
 
 These are the main building block of neo-cortex. Each cell has a cell body, axons, dendrites.  When the axon from one neuron touches the dendrite of another, they form small connections called synapses. Synapses can be excitatory or inhibitory, when it comes to influencing the cell body to fire a spike. The strength of these synapses can change (example is when two neurons spike at the same time, connections between them strengthens). Also, entire new synapse can be formed between two neurons. These formation and strengthening of synapses cause our memory to be stores.
 
 
-### A Region of Neo-Cortex - Layers and Columns
+### 6.2 A Region of Neo-Cortex - Layers and Columns
 
 Each major region of the neo-cortex is comprised of lots of smaller regions. However, everywhere we can see six layers of cortical tissues. The top, called layer 1, is the most distinct of the six layers. It has very few cells, consisting primarily of a mat of axons running parallel to the cortical surface. Layers 2 and 3 look similar. They contain many tightly packed pyramidal cells. Layer 4 has a type of star-shaped cell. Layer 5 has regular pyramidal cells as well as a class of extra-big pyramid-shaped cells. The bottom layer, layer 6, also has several types of unique neurons.
 
-{{< figure src="/img/layers-and-columns-of-cortex.png" title="Layers and columns in a region of cortex. Images from On Intelligence (2004).  " numbered="true" lightbox="true" width="100%">}}
+{{< figure src="/img/layers-and-columns-of-cortex.png" title="Layers and columns in a region of cortex. Images from On Intelligence (2004).  " numbered="true" lightbox="true" width="50%">}}
 
 
 There are column-like structures that run parpendicular to the layers, and the cells of each column work together, are tightly connected by axons and tend to get activated by the same input/stimulus. Specifically, an active cell in layer 4 causes cells above it in layers 3 and 2 to become active, which then cause cells below in layers 5 and 6 to become active. Activity spreads up and down within a column of cells.  At least 90 percent of the synapses on cells within each column come from places outside the column itself. Some connections arrive from neighboring columns. Others come from halfway across the brain.
 
 
-### The Information Highways: Upward and Downward Flow
+### 6.3 The Information Highways: Upward and Downward Flow
 
 Converging inputs from lower regions always arrive at layer 4— the main input layer. In passing, they also form a connection in layer 6 (we'll see later why this is important). Layer 4 cells then send projections up to cells in layers 2 and 3 within their column. When a column projects information up, many layer 2 and layer 3 cells send axons to the input layer of that next higher region. Thus information flows from region to region up the hierarchy.
 
-{{< figure src="/img/upward-flow-of-info.png" title="Upward flow of information through a region of cortex. Images from On Intelligence (2004).  " numbered="true" lightbox="true" width="100%">}}
+{{< figure src="/img/upward-flow-of-info.png" title="Upward flow of information through a region of cortex. Images from On Intelligence (2004).  " numbered="true" lightbox="true" width="50%">}}
 
-{{< figure src="/img/downward-flow-of-info.png" title="Downward flow of information through a region of cortex. Images from On Intelligence (2004).  " numbered="true" lightbox="true" width="100%">}}
+{{< figure src="/img/downward-flow-of-info.png" title="Downward flow of information through a region of cortex. Images from On Intelligence (2004).  " numbered="true" lightbox="true" width="50%">}}
 
 
 As information flows down the hierarchy, it has a less direct route. It can branch in many different directions via the spread on layer 1. Feedback information starts in a layer 6 cell in the higher region; it spreads across layer 1 in the lower region. There are very few cells in layer 1, but cells in layers 2, 3, and 5 have dendrites in layer 1, so these cells can be excited by the feedback running all across layer 1. Some cells in layers 2, 3, and 5 in the lower region are excited, and some of these excite layer 6 cells, which project to layer 1 in regions hierarchically below, and so on. (If you study figure 8, the process is much easier to follow.)
 
 
-### Delayed Feedback Connections Through Thalamus
+### 6.4 Delayed Feedback Connections Through Thalamus
 
 When the output of a group of artificial neurons is fed back to form the input to all the neurons, and a delay is added to the feedback, then patterns learn to follow each other in sequence. Cortical algorithm performs this delayed feedback with the help of Thalamus. Layer 5 cells throughout multiple cortical regions project to the thalamus, which sends the information back to layer 1 of those same and associated regions.
 
-{{< figure src="/img/with-thalamus.png" title="How current state and current motor behavior is communicated broadly via the thalamus. Images from On Intelligence (2004)." numbered="true" lightbox="true" width="100%">}}
+{{< figure src="/img/with-thalamus.png" title="How current state and current motor behavior is communicated broadly via the thalamus. Images from On Intelligence (2004)." numbered="true" lightbox="true" width="50%">}}
 
 Hence, there are two inputs to layer 1. Higher regions of cortex spread activity across layer 1 in lower regions. Active columns within a region also spread activity across layer 1 in the same region via the thalamus. We can think of these
 inputs to layer 1 as the name of a song (input from above) and where we are in a song (delayed activity from active columns in the same region). Thus layer 1 carries much of the information we need to predict when a column should be active— the sequence name and where we are within the sequence. Using these two signals in layer 1, a region of cortex can learn and recall multiple sequences of patterns
 
 
-## How the Magic Happens
+## 6.5 How the Magic Happens
 
 To understand how a region of cortex does what it does, we want to know the follwoings:
 
@@ -133,7 +133,7 @@ To understand how a region of cortex does what it does, we want to know the foll
 
 -  Layer 2 cells, learns to stay on during learned sequences. These cells, as a group, represent the name of the sequence. They will present a constant pattern to higher cortical regions as long as a region can predict what columns will be active next.  A layer 3b cell represents an unexpected pattern. It fires when a column becomes active unexpectedly. Before learning both cells fire on and off with the column, but after training the layer 2 cell is constantly active and the layer 3b cell is quiet. When the layer 3a cell sees the learned pattern in layer 1, it quickly activates an inhibitory cell that prevents the layer 3b cell from firing.
 
-{{< figure src="/img/contsant-names-for-learned-sequence.png" title="Forming a constant name for a learned sequence. Images from On Intelligence (2004).  " numbered="true" lightbox="true" width="100%">}}
+{{< figure src="/img/contsant-names-for-learned-sequence.png" title="Forming a constant name for a learned sequence. Images from On Intelligence (2004).  " numbered="true" lightbox="true" width="50%">}}
 
 
 - To be active throughout a known sequence of patterns, Layer 2 cells could learn to be driven purely from the hierarchically higher regions of cortex. They could form synapses preferentially with the axons from layer 6 cells in the regions above. The layer 2 cells would therefore represent the constant name pattern from the higher region. When a higher region of cortex sends a pattern down to layer 1 of the region below, a set of layer 2 cells in the lower region would become active, representing all the columns that are members of the sequence. Since these layer 2 cells also project back to the higher region, they would form a semistable group of cells. 
@@ -143,13 +143,13 @@ To understand how a region of cortex does what it does, we want to know the foll
 
 - Cortex solves the problem of making specifc prediction from an invariant memoies by using the last specific information to convert an invariant prediction into a specific prediction. Axons from layer 2 and layer 3 cells generally form synapses in layer 5 as they leave the cortex, and similarly axons approaching layer 4 from lower regions of cortex make a synapse in layer 6. The intersection of these two synapses (top down and bottom up) provides the specific prediction. A layer 6 cell that receives these two active inputs will fire. A layer 6 cell represents what a region of cortex believes is happening, a specific prediction.
 
-{{< figure src="/img/prediction-from-invariant-memories.png" title="How a region of cortex makes specific predictions from invariant memories. Images from On Intelligence (2004)." numbered="true" lightbox="true" width="100%">}}
+{{< figure src="/img/prediction-from-invariant-memories.png" title="How a region of cortex makes specific predictions from invariant memories. Images from On Intelligence (2004)." numbered="true" lightbox="true" width="50%">}}
 
 - In addition to projecting to lower cortical regions, layer 6 cells can send their output back into layer 4 cells of their own column. When they do, our predictions become the input. This is what we do when daydreaming or thinking. It
 allows us to see the consequences of our own predictions.
 
 
-## How to Boot the Cortical System from Scratch: Responsibilies of Hippocampus
+## 7. How to Boot the Cortical System from Scratch: Responsibilies of Hippocampus
 
 Hippocampus is essential to the formation of new memories. If someone loses both halves of the hippocampus, he loses the ability to form most new memories. The connections between the hippocampus and the neocortex suggest that the hippocampus is the top region of the neocortex, not a separate structure. Neocortex appeared on the evolutionary scene sandwiched between the hippocampus and the rest of the brain.
 
@@ -160,7 +160,7 @@ The hippocampus has a heterogeneous structure with several specialized regions. 
 As we get older, we have trouble remembering new things. New experiences fit into memories of past experiences, and the information just doesn't make it to our hippocampus. So, no memories of that experience is created.
 
 
-## Alternate Pathway for Upward Information Flow: Attention Shift
+## 8. Alternate Pathway for Upward Information Flow: Attention Shift
 
 While listening to a song, we can just hear it as a song, but we try we can hear all the instruments playing. When we talk to each other in a noisy environment, we can discard the noise and focus on the conversation, but if we chose we can focus on the noise too. We are doing this sort of attentional shift all the time, but we aren't generally aware of it.
 
@@ -173,7 +173,7 @@ The alternate pathway can be turned on in one of two ways. One is by a signal fr
 
 
 
-# My Thoughts
+# 9. My Thoughts
 
 1. I feel that "Bayesian Probility Theory" seems to be the most closely linked theory to the one presented here. Cortex solves the problem of making specifc prediction from an invariant memoies by using the last specific information to convert an invariant prediction into a specific prediction. Another way to phrase this, in terms of the cortex, is to say that it combines feedforward information (actual input) with feedback information (a prediction in an invariant form). Yet another way to think this is that invariant memories (feedback signal) are analogous to prior probablity. They only keep the generic information about a given signal. As we receive new expereince (feedforward signals through sensors) the posterior probability of a specific prediction is evaluated to make sense of the world around us.
 \[could it be that all the current conventional networks are like frequency interpretation of probability and we need the Bayesian version to solve the drawbacks?\]
