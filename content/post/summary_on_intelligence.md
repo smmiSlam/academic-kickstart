@@ -19,11 +19,11 @@ caption = ""
 
 ## 1. Intelligence and Biological Brain
 
-The key concept in understanding intelligence is that understanding is an intrinsic concept happens within the agent who is trying to understand something. External behavious is not a good indicator of understanding or intelligent. 
+The key concept in understanding intelligence is that understanding is an intrinsic concept happens within the agent who is trying to understand something. External behavious is not a good indicator of understanding or intelligence. 
 
 Three major things are essential to understanding the brain. 
 
-1. Inclusion of Time
+1. Inclusion of Temporal Aspect to data
 2. Importance of Feedback
 3. Physical architecture of the brain
 
@@ -40,7 +40,7 @@ It is because biological brains retrives answer of a problem from memory rather 
 
 The neocortex is the part that probably contributes the most to our human-level intelligence. This thin multi-layer structure that encompasses the old brain is the place where learning takes place. It is mainly consisted of columns of neuron cells (6 cells per column in human neo-cortex) stacked tightly. Cells of same column has both feed-forward and feedback connections, usually feedback connection outnumbering feed-forward by a factor of 10. Also there are lateral connection among cells of the same hierarchy level. The notion of hierarchy and majority-feedback connections are of utmost importance. 
 
-In an usual human brain, different regions of neo-cortex are assigned with different tasks, lke region for processing auditory signal, regions for processing visual signal etc. However, it has been proven that all the regions have the same hierarchical structure and have the capability to process different signals if connected with associated signals/sensors. There are also association regions that receive input from different sensors.
+In an usual human brain, different regions of neo-cortex are assigned with different tasks, like region for processing auditory signal, region for processing visual signal etc. However, it has been proven that all the regions have the same hierarchical structure and have the capability to process different signals if they were connected with different signals/sensors. There are also higher level association regions that receive input from different sensors.
 
 
 ## 4. Major Functionalities of Neo-cortex
