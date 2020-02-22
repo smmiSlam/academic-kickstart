@@ -78,7 +78,7 @@ To make the cortex symmetric and homogeneous in every region and every layer, th
 
 ### 6.1 Neuron Cells of Neo-Cortex
 
-These are the main building block of neo-cortex. Each cell has a cell body, axons, dendrites.  When the axon from one neuron touches the dendrite of another, they form small connections called synapses. Synapses can be excitatory or inhibitory, when it comes to influencing the cell body to fire a spike. The strength of these synapses can change (example is when two neurons spike at the same time, connections between them strengthens). Also, entire new synapse can be formed between two neurons. These formation and strengthening of synapses cause our memory to be stores.
+These are the main building blocks of neo-cortex. Each cell has a cell body, axons, dendrites.  When the axon from one neuron touches the dendrite of another, they form small connections called synapses. Synapses can be excitatory or inhibitory, when it comes to influencing the cell body to fire a spike. The strength of these synapses can change (example is when two neurons spike at the same time, connections between them strengthens). Also, entire new synapse can be formed between two neurons. These formation and strengthening of synapses cause our memory to be stores. There are different types of neuron cells such as pyramidal cells, star cells, large pyramidal cells etc.
 
 
 ### 6.2 A Region of Neo-Cortex - Layers and Columns
@@ -93,14 +93,14 @@ There are column-like structures that run parpendicular to the layers, and the c
 
 ### 6.3 The Information Highways: Upward and Downward Flow
 
-Converging inputs from lower regions always arrive at layer 4— the main input layer. In passing, they also form a connection in layer 6 (we'll see later why this is important). Layer 4 cells then send projections up to cells in layers 2 and 3 within their column. When a column projects information up, many layer 2 and layer 3 cells send axons to the input layer of that next higher region. Thus information flows from region to region up the hierarchy.
+Converging inputs from lower regions always arrive at layer 4— the main input layer. In passing, they also form a connection in layer 6 (we'll see later why this is important). Layer 4 cells then send projections up to cells in layers 2 and 3 within their column. When a column projects information up, many layer 2 and layer 3 cells send axons to the input layer of that next higher region. Thus information flows from region to region, going up through the hierarchy.
 
 {{< figure src="/img/upward-flow-of-info.png" title="Upward flow of information through a region of cortex. Images from On Intelligence (2004).  " numbered="true" lightbox="true" width="50%">}}
 
 {{< figure src="/img/downward-flow-of-info.png" title="Downward flow of information through a region of cortex. Images from On Intelligence (2004).  " numbered="true" lightbox="true" width="50%">}}
 
 
-As information flows down the hierarchy, it has a less direct route. It can branch in many different directions via the spread on layer 1. Feedback information starts in a layer 6 cell in the higher region; it spreads across layer 1 in the lower region. There are very few cells in layer 1, but cells in layers 2, 3, and 5 have dendrites in layer 1, so these cells can be excited by the feedback running all across layer 1. Some cells in layers 2, 3, and 5 in the lower region are excited, and some of these excite layer 6 cells, which project to layer 1 in regions hierarchically below, and so on. (If you study figure 8, the process is much easier to follow.)
+As information flows down the hierarchy, it has a less direct route. It can branch in many different directions via the spread on layer 1. Feedback information starts in a layer 6 cell in the higher region; it spreads across layer 1 in the lower region. There are very few cells in layer 1, but cells in layers 2, 3, and 5 have dendrites in layer 1, so these cells can be excited by the feedback running all across layer 1. Some cells in layers 2, 3, and 5 in the lower region are excited, and some of these excite layer 6 cells, which project to layer 1 in regions hierarchically below, and so on.
 
 
 ### 6.4 Delayed Feedback Connections Through Thalamus
