@@ -17,12 +17,12 @@ caption = ""
 
 +++
 
-## Auto-associative Memory
+# Auto-associative Memory
 Auto-associative memories are content based memories which can recall a stored sequence when they are presented with a fragment or a noisy version of it. Firstly, using this, we dont have to have the entire pattern we want to retrive in order to retrive it. Secondly, auto-associative memory can be designed to store sequences of patterns, or temporal patterns. This feature is accomplished by adding a time delay to the feedback. With this delay, you can present an auto-associative memory with a sequence of patterns, similar to a melody, and it can remember the sequence. I might feed in the first few notes of "Twinkle Twinkle Little Star" and the memory returns the whole song.
 
 The simplest version of auto-associative memory is linear associator which is a 2-layer feed-forward fully connected neural network where the output is constructed in a single feed-forward computation.
 
-{{< figure src="/img/auto_associative_memory.png" title="Model for auto-associative memory. Images from  TutorialPoints.  " numbered="true" lightbox="true" width="50%">}}
+{{< figure src="/img/auto_associative_memory.jpg" title="Model for auto-associative memory. Images from  TutorialPoints.  " numbered="true" lightbox="true" width="50%">}}
 
 All inputs are connected to all outputs via the connection weight matrix 'W' where each element of 'W_ij' denotes the strength of unidirectional connection from the 'i' input to the 'j' output. Since in auto-associative memories, we have x = y . Therefore, all stored sequences must be eigenvectors of matrix 'W'. Assuming all stored sequences are
 orthogonal to each other, we can represent the weight matrix as W = XX^{-1} = XX^T, where X is orthonormal matrix of all stored sequences. Also, we are enforcing the weight matrix W to be symmetric so W_ij = W_ji. So, assuming we have 'p' sequences to store in our memory we can rewrite weight matrix as:
@@ -32,7 +32,7 @@ orthogonal to each other, we can represent the weight matrix as W = XX^{-1} = XX
 http://cs229.stanford.edu/proj2013/Youssefi-AutoassociativeMemory.pdf
  
 
-## Chinese Room Experiment
+# Chinese Room Experiment
 Suppose you have a room with a slot in one wall, and inside is an English-speaking person sitting at a desk. He has a big book of instructions and all the pencils and scratch paper he could ever need. Flipping through the book, he sees that the instructions, written in English, dictate ways to manipulate, sort, and compare Chinese characters. Mind you, the directions say nothing about the meanings of the Chinese characters; they only deal with how the characters are to be copied, erased, reordered, transcribed, and so forth.
 
 Someone outside the room slips a piece of paper through the slot. On it is written a story and questions about the story, all in Chinese. The man inside doesn't speak or read a word of Chinese, but he picks up the paper and goes to work with the rulebook. He toils and toils, rotely following the instructions in the book. At times the instructions tell him to write characters on scrap paper, and at other times to move and erase characters. Applying rule after rule, writing and erasing characters, the man works until the book's instructions tell him he is done. When he is finished at last he has written a new page of characters, which unbeknownst to him are the answers to the questions. The book tells him to pass his paper back through the slot. He does it, and wonders what this whole tedious exercise has been about.
