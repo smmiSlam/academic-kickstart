@@ -74,3 +74,5 @@ image = ""
 caption = ""
 
 +++
+
+{{< figure src="/img/multi-scale-CNN-for-semantic-segmentation.jpg" title="Overall model of the blood vessel extractor." >}}
