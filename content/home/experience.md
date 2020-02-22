@@ -24,6 +24,6 @@ date_format = "Jan 2006"
   location = "Dhaka, Bangladesh"
   date_start = "2018-09-01"
   date_end = "2019-09-03"
-  description = """Taught neumerical techniques with python and researched on semantic segmentation of retinal blood vessel."""
+  description = """Instructed neumerical techniques with python and researched on semantic segmentation of retinal blood vessel."""
 
 +++
