@@ -47,21 +47,21 @@ In an usual human brain, different regions of neo-cortex are assigned with diffe
 
 ### 4.1 Invarient Representation of Our Experiences
 
-Neo-cortex uses heirarchical memory storage system with feedback signals to predict about our next experience. This predictions process is never-ending but our attentions drawn towards them when the prediction do no meet the experience (input through sensors). As the signal travels up the hierarchy, the signal gets coverted from being spatially variant, fast changing, small-scale-features into spatially invariant, slow changing, large-scale-features.
+Neo-cortex uses heirarchical memory storage system with feedback signals to predict about our next experience. This predictions process is never-ending but our attention is drawn towards them when the prediction do no meet the experience (input through sensors). As the signal travels up the hierarchy, the signal gets converted from being spatially variant, fast changing, small-scale-features into spatially invariant, slow changing, large-scale-features.
 
 {{< figure src="/img/invarient-representations.png" title="Forming invariant representations in hearing, vision, and touch. Images from On Intelligence (2004).  " numbered="true" lightbox="true" width="50%">}}
 
 
 ### 4.2 Multi-Sensory Predictions and Unified Sensory Experiences 
 
-Input signal from one sensory organ can be feed back and propagated down through connected paths of associated memory of other sensory organs. This can evoke prediction from other sensors while input was received through another sensor. This type of associative multi-sensory prediction are the root in incidents like "if someone calls my name, I hear it, but involuntarily I move my face into the direction of the sound source, and expect to see the caller. Even though I didnt receive any signal thorugh my visual cortex"
+Input signal from one sensory organ can be fed back and propagated down through connected paths of associated memory of other sensory organs. This can evoke prediction from other sensors while input was received through another sensor. This type of associative multi-sensory prediction are in the root of incidents like "if someone calls my name, I hear it, but involuntarily I move my face into the direction of the sound source, and expect to see the caller. Even though I didnt receive any signal thorugh my visual cortex"
 
 {{< figure src="/img/create-prediction-and-unified-sensory-exp.png" title="Information flows up and down sensory hierarchies to form predictions and create a unified sensory experience. Images from On Intelligence (2004).  " numbered="true" lightbox="true" width="50%">}}
 
 
 ### 4.3 Sequence of Sequences and Hierarchical Processing of Information
 
-Everything around us is built with a very nicely hierarchical manner. Like, electrons protons are forming atoms. Atoms are forming molecules, molecules forming compounds, then complex structures like a living human, an airplane, human-cortex is created. The underlying electron-protons are still same. So, through evolution, to memorize experience from this highly hierarchical surroundings, cortex has also developed hierarchical structures. Hence, memory inside each cortex regions are best described as sequences of sequences.
+Everything around us is built with a highly hierarchical structures. Like, electrons protons are forming atoms. Atoms are forming molecules, molecules forming compounds, then complex structures like a living human, an airplane, human-cortex is created. The underlying electron-protons are still same. So, through evolution, to memorize experience from this highly hierarchical surroundings, cortex has also developed hierarchical structures. Hence, memory inside each cortex regions are best described as sequences of sequences.
 
 When a region of cortex is presented with some input, first it classifies the input into on of the limited number of possibilities, then looks for sequences. If lower regions of cortex fail to predict what patterns they are seeing, they consider this an error and pass the error up the hierarchy. This is repeated until some region does anticipate the pattern. Due to the formation of these sequences ambiguous inputs can be deciphered from the context (realizing that the current input is part of a previously expereinced sequence).
 
