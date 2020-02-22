@@ -113,7 +113,7 @@ Hence, there are two inputs to layer 1. Higher regions of cortex spread activity
 inputs to layer 1 as the name of a song (input from above) and where we are in a song (delayed activity from active columns in the same region). Thus layer 1 carries much of the information we need to predict when a column should be active— the sequence name and where we are within the sequence. Using these two signals in layer 1, a region of cortex can learn and recall multiple sequences of patterns
 
 
-## 6.5 How the Magic Happens
+## 7 How the Magic Happens
 
 To understand how a region of cortex does what it does, we want to know the follwoings:
 
@@ -149,7 +149,7 @@ To understand how a region of cortex does what it does, we want to know the foll
 allows us to see the consequences of our own predictions.
 
 
-## 7. How to Boot the Cortical System from Scratch: Responsibilies of Hippocampus
+## 8. How to Boot the Cortical System from Scratch: Responsibilies of Hippocampus
 
 Hippocampus is essential to the formation of new memories. If someone loses both halves of the hippocampus, he loses the ability to form most new memories. The connections between the hippocampus and the neocortex suggest that the hippocampus is the top region of the neocortex, not a separate structure. Neocortex appeared on the evolutionary scene sandwiched between the hippocampus and the rest of the brain.
 
@@ -160,7 +160,7 @@ The hippocampus has a heterogeneous structure with several specialized regions. 
 As we get older, we have trouble remembering new things. New experiences fit into memories of past experiences, and the information just doesn't make it to our hippocampus. So, no memories of that experience is created.
 
 
-## 8. Alternate Pathway for Upward Information Flow: Attention Shift
+## 9. Alternate Pathway for Upward Information Flow: Attention Shift
 
 While listening to a song, we can just hear it as a song, but we try we can hear all the instruments playing. When we talk to each other in a noisy environment, we can discard the noise and focus on the conversation, but if we chose we can focus on the noise too. We are doing this sort of attentional shift all the time, but we aren't generally aware of it.
 
@@ -173,7 +173,7 @@ The alternate pathway can be turned on in one of two ways. One is by a signal fr
 
 
 
-# 9. My Thoughts
+# 10. My Thoughts
 
 1. I feel that "Bayesian Probility Theory" seems to be the most closely linked theory to the one presented here. Cortex solves the problem of making specifc prediction from an invariant memoies by using the last specific information to convert an invariant prediction into a specific prediction. Another way to phrase this, in terms of the cortex, is to say that it combines feedforward information (actual input) with feedback information (a prediction in an invariant form). Yet another way to think this is that invariant memories (feedback signal) are analogous to prior probablity. They only keep the generic information about a given signal. As we receive new expereince (feedforward signals through sensors) the posterior probability of a specific prediction is evaluated to make sense of the world around us.
 \[could it be that all the current conventional networks are like frequency interpretation of probability and we need the Bayesian version to solve the drawbacks?\]
