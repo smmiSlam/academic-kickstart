@@ -69,7 +69,7 @@ Also due to these sequences each cortical regions can anticipate about what migh
 
 ## 5. Common Cortical Algorithm
 
-To make the cortex symmetric in every region and every layer, the following model is proposed. This shows that the cortex do not care in which region or in which layer it is currently situated. Rather it does the same operation everywhere, relay converging information from lower sub-regions to higher higher association areas and send down feedback signals from higher association regions to lower sub-regions. This explain why cortex is not domain-specific, rather it treats all the incoming pattern and feedback signals universally. This is known as "Common Cortical Algorithm"
+To make the cortex symmetric and homogeneous in every region and every layer, the following model is proposed. This model shows that the cortex do not care in which region or in which layer it currently belongs. Rather it does the same operation everywhere, relay converging information from lower sub-regions to higher higher association areas and send down feedback signals from higher association regions to lower sub-regions. This explain why cortex is not domain-specific, rather it treats all the incoming pattern and feedback signals universally same. This is known as "Common Cortical Algorithm"
 
 {{< figure src="/img/common-cortical-algorithm.png" title="Alternate view of the cortical hierarchy. Images from On Intelligence (2004).  " numbered="true" lightbox="true" width="50%">}}
 
