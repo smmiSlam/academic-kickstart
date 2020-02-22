@@ -18,19 +18,20 @@ caption = ""
 +++
 
 ## Title:
-### Authors:
-### Publication Date:
-### One-Liner:
-### Cross-reference:
-### Summary-link: 
+Authors: \
+Publication Date: \
+One-Liner: \
+Cross-reference: \
+Summary-link: \
 
 
 ## Title: On Intelligence
-### Authors: Jeff Hawkins
-### Publication Date: 2004
-### One-Liner: Frame work of biological brain
-### Cross-reference:
-### Summary-link: 
+
+Authors: Jeff Hawkins \
+Publication Date: 2004 \
+One-Liner: Frame work of biological brain \
+Cross-reference: \
+Summary-link: https://smmislam.netlify.com/post/summary_on_intelligence/ \
 
 
 ## Title: The Astonishing Hypothesis
