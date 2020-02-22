@@ -143,8 +143,7 @@ To understand how a region of cortex does what it does, we want to know the foll
 
 - Cortex solves the problem of making specifc prediction from an invariant memoies by using the last specific information to convert an invariant prediction into a specific prediction. Axons from layer 2 and layer 3 cells generally form synapses in layer 5 as they leave the cortex, and similarly axons approaching layer 4 from lower regions of cortex make a synapse in layer 6. The intersection of these two synapses (top down and bottom up) provides the specific prediction. A layer 6 cell that receives these two active inputs will fire. A layer 6 cell represents what a region of cortex believes is happening, a specific prediction.
 
-{{< figure src="/img/prediction-from-invariant-memories.png" title="How a region of cortex makes specific predictions from
-invariant memories. Images from On Intelligence (2004).  " numbered="true" lightbox="true" width="100%">}}
+{{< figure src="/img/prediction-from-invariant-memories.png" title="How a region of cortex makes specific predictions from invariant memories. Images from On Intelligence (2004)." numbered="true" lightbox="true" width="100%">}}
 
 - In addition to projecting to lower cortical regions, layer 6 cells can send their output back into layer 4 cells of their own column. When they do, our predictions become the input. This is what we do when daydreaming or thinking. It
 allows us to see the consequences of our own predictions.
