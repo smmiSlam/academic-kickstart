@@ -2,7 +2,7 @@
 title = "Summary of On Intelligence by Jeff Hawkins"
 
 date = 2020-02-15T00:00:00
-lastmod = 2020-02-22T00:22:24
+lastmod = 2020-02-22T00:22:30
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -173,7 +173,7 @@ The alternate pathway can be turned on in one of two ways. One is by a signal fr
 
 
 
-# 10. My Thoughts
+## 10. My Thoughts
 
 1. I feel that "Bayesian Probility Theory" seems to be the most closely linked theory to the one presented here. Cortex solves the problem of making specifc prediction from an invariant memoies by using the last specific information to convert an invariant prediction into a specific prediction. Another way to phrase this, in terms of the cortex, is to say that it combines feedforward information (actual input) with feedback information (a prediction in an invariant form). Yet another way to think this is that invariant memories (feedback signal) are analogous to prior probablity. They only keep the generic information about a given signal. As we receive new expereince (feedforward signals through sensors) the posterior probability of a specific prediction is evaluated to make sense of the world around us.
 \[could it be that all the current conventional networks are like frequency interpretation of probability and we need the Bayesian version to solve the drawbacks?\]
