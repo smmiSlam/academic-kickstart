@@ -17,7 +17,7 @@ caption = ""
 
 +++
 
-## Title:
+### Title:
 Authors: \
 Publication Date: \
 One-Liner: \
@@ -25,7 +25,7 @@ Cross-reference: \
 Summary-link: 
 
 
-## Title: On Intelligence
+### Title: On Intelligence
 
 Authors: Jeff Hawkins \
 Publication Date: 2004 \
@@ -34,7 +34,7 @@ Cross-reference: \
 Summary-link: https://smmislam.netlify.com/post/summary_on_intelligence/ 
 
 
-## Title: The Astonishing Hypothesis
+### Title: The Astonishing Hypothesis
 
 Authors: Francis Crick \
 Publication Date: 1994 \
@@ -43,7 +43,7 @@ Cross-reference: On intelligence; \
 Summary-link: 
 
 
-## Title: Thinking about the brain, Scientific American
+### Title: Thinking about the brain, Scientific American
 
 Authors: Francis Crick \
 Publication Date: September, 1979 \
@@ -52,7 +52,7 @@ Cross-reference: On intelligence; \
 Summary-link: 
 
 
-## Title: A logical calculus of the ideas immanent in nervous activity
+### Title: A logical calculus of the ideas immanent in nervous activity
 
 Authors: Warren S. McCulloch, Walter H. Pitts \
 Publication Date: 1943 \
@@ -61,7 +61,7 @@ Cross-reference: On intelligence; \
 Summary-link: 
 
 
-## Title: An organizing principle for cerebral function
+### Title: An organizing principle for cerebral function
 
 Authors: Vernon Mountcastle \
 Publication Date: 1978 \
@@ -70,7 +70,7 @@ Cross-reference:On intelligence; \
 Summary-link: 
 
 
-## Title: i of the vortex
+### Title: i of the vortex
 
 Authors: Rodolfo Llinas \
 Publication Date: 2001 \
