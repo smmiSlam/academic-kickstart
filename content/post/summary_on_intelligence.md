@@ -2,20 +2,27 @@
 title = "Summary of On Intelligence by Jeff Hawkins"
 
 date = 2020-02-15T00:00:00
-lastmod = 2020-02-23T00:03:05
+lastmod = 2020-02-29T00:06:05
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["SM Mazharul Islam"]
 
 tags = ["Common Knowledge", "Book Summary"]
-summary = "From biological brain to artificial general intelligence. Description of the whole framework."
+summary = "From biological brain to artificial general intelligence. Description of the whole framework as described by Jeff Hawkins in his book "On intelligence"."
 
 [header]
 image = ""
 caption = ""
 
 +++
+
+## Introduction
+
+In this post, I have tried to condense the knowledge presented in the book "On Intelligence" by "Jeff Hawkins". This might be helpful for people who have read this beautiful book, but like me, have too forgetful of a memory to retain all the treasures within.
+
+I have started with a brief definition of intelligence. Then, quickly moved onto Neo-Cortex, which is one of the key structures behind the intellectual superiority of mammalian brains. I tried to touch the major functionalies of neo-cortex that are essential for forming intelligence in section 4. Later, the algorithm and architecture of human neo-cortex has been described in section 5, 6. Section 7, 8, 9 describe some of the ingenious solutions applied by neo-cortex, thalamus and hippocampus to solve problems like associative memory system, hierarchical representation, learning from scratch and future prediction. Finally, in section 10, I have listed out some of my own proposals and thoughts for future references.
+
 
 ## 1. Intelligence and Biological Brain
 
