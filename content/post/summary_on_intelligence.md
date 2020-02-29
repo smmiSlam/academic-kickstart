@@ -9,7 +9,7 @@ draft = false
 authors = ["SM Mazharul Islam"]
 
 tags = ["Common Knowledge", "Book Summary"]
-summary = "From biological brain to artificial general intelligence. Description of the whole framework as described by Jeff Hawkins in his book "On intelligence"."
+summary = "From biological brain to artificial general intelligence. Description of the whole framework as described by Jeff Hawkins in his book \"On intelligence\"."
 
 [header]
 image = ""
