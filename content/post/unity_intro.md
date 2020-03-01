@@ -21,8 +21,8 @@ caption = ""
 - Step 0: Create and activate an Unity account
 - Step 1: Download 'UnityHub.AppImage' from [here](https://store.unity.com/download-nuo)
 - Step 2: Open terminal at the download directory and enter the following commands
--- chmod a+x UnityHub.AppImage
--- ./UnityHub.AppImage
+  - chmod a+x UnityHub.AppImage
+  - ./UnityHub.AppImage
 - Step 3: Press accept/yes when prompted
 - Step 4: When prompted for license, go for manual activation
 - Step 5: Store license generation request file \[named as Unity_lic.alf\]
