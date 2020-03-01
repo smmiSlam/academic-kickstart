@@ -30,5 +30,8 @@ caption = ""
 - Step 7: License file will be downloaded automatically \[named something like Unity_v2017.x.ulf\]
 - Step 8: Nevigate this license file the activation prompt
 - Step 9: Set-up a directory for unity projects
+- Step 10: Go the "Installs" tab in the Unity hub and "ADD" the latest version shown there
+- Step 11: Select the supports you require, depending on your project and where end result will be deployed and click "next"
+- Step 12: That should start downloading the unity files into your machine
 
 Unity-3D should be up and running by this point.
