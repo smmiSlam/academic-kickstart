@@ -32,7 +32,7 @@ defaultContentLanguageInSubdir = false
 removePathAccents = true  # Workaround for https://github.com/gohugoio/hugo/issues/5687
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = "UA-158847803-2"
+googleAnalytics = "UA-158847803-3"
 
 paginate = 10  # Number of items per page in paginated lists.
 enableEmoji = true
