@@ -111,8 +111,6 @@ This is like fact checking, like solving a puzzle and retrace back which part of
 
 - It seems like the presenter (and also Yann LeCun et al.) gives a lot of weight to the sample efficiency. That is use as little data sample as possible to master a task, which removes bias from the learned network, saves them from overfitting on the training sample, and generalizes well.
     - I think that using less data samples might not be that big of a deal. Rather, routines like **Efficient Data Representation and Storing** and **Knowledge-Sharing from Different Domains** might prove to be more important.
-    - We need to design a **memory** like structure with a huge amount of data, which will function like a knowledge database. This database will store the information in a **hierarchical** and **associative** manner.
-    - Then, we need to make a **query system** which can communicate with the above database, given some anchoring input (image, text, speech etc.).
 
 - In which fundamental criteria, RCN would fail to solve SERDo?
     - While breaking the CAPCHA problem, RCN has to deal with a fixed set of charaters or symbols. So, it can generate a probability distribution for each of those symbols. However, SEDRo is an open-world environment and the possible number of symbols or objects that can be found there is technically unbounded. Hence, to generate some kind of prediction or recognition, RCN would have to generate probablity distribution for the unbounded number of symbols.
