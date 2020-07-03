@@ -2,13 +2,13 @@
 title = "Summary of On Intelligence by Jeff Hawkins"
 
 date = 2020-02-15T00:00:00
-lastmod = 2020-02-29T00:06:05
+lastmod = 2020-07-04T01:30:05
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["SM Mazharul Islam"]
 
-tags = ["Common Knowledge", "Book Summary"]
+tags = ["Common Knowledge", "Book", "Summary"]
 summary = "From biological brain to artificial general intelligence. Description of the whole framework as described by Jeff Hawkins in his book \"On intelligence\"."
 
 [header]
