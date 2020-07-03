@@ -110,7 +110,7 @@ This is like fact checking, like solving a puzzle and retrace back which part of
     - Because of the exponential data hypothesis (that when the number of domains increases, the required training data increases multiplicatively rather than additively), it would take too many data samples to train a conventional model to learn multi-tasking, so it can be as generalized as the old-brain.
 
 - It seems like the presenter (and also Yann LeCun et al.) gives a lot of weight to the sample efficiency. That is use as little data sample as possible to master a task, which removes bias from the learned network, saves them from overfitting on the training sample, and generalizes well.
-    - I think that using less data samples might not be that big of a deal. Rather, things like “Efficient Data Representation and Storing” and “Knowledge-Sharing” would be more important.
+    - I think that using less data samples might not be that big of a deal. Rather, routines like **Efficient Data Representation and Storing** and **Knowledge-Sharing from Different Domains** might prove to be more important.
     - We need to make a memory like structure with a huge amount of data, which will function like a database. This database will store the information in a hierarchical and associative manner.
     - And we need to make a query system which can communicate with the above database, given some input (image, text, speech etc.).
 
