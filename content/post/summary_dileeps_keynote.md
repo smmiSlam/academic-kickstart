@@ -124,5 +124,5 @@ This is like fact checking, like solving a puzzle and retrace back which part of
 - Cloned HMM [paper](https://arxiv.org/abs/1905.00507).
 - Generative model [PRML](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf).
 - Graphical model [PRML](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf).
-- Variational Auto-encoder.
+- Variational Auto-Encoder.
 - Hidden Markov Model.
