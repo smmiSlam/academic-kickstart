@@ -16,14 +16,14 @@ caption = ""
 
 ## Introduction
 
-In this post, I have summarized the major points of Dileep George's keynote speech at the Human-Level AI Conference in Prague in August 2018. Here, he presents two new networks (RCN and SchemaNet) which are inspired from biological brain and consequently aims towards solving AGI. I have added links for most of the reference papers which are mentioned during the presentation.
+In this post, I have summarized the major points of Dileep George's keynote speech at the Human-Level AI Conference in Prague in August 2018. Here, he presents two new networks (RCN and SchemaNet) which are inspired by biological brains and consequently aim towards solving AGI. I have added links for most of the reference papers and books which are mentioned during this presentation for quick access.
 
-This post is mainly directed towards myself and for anyone out there who would like to have a quick re-cap of this talk. Thank you for reading.
+This post is mainly directed towards myself and for anyone out there who would like to have a quick re-cap of this talk. Thank you for reading! :heart:
 
 
 ## 1. Talk
 
-The full talk can be found [here](https://www.youtube.com/watch?v=8nDjROcLAh0)
+The full talk can be found [here](https://www.youtube.com/watch?v=8nDjROcLAh0).
 
 
 ### 1.1 What Is Intelligence
@@ -104,7 +104,7 @@ This is like fact checking, like solving a puzzle and retrace back which part of
     - He is using the framework of probabilistic graphical models combined with programs. It can be called Probabilistic Programming.
 
 
-## 2 Discussion After Watching the Talk with the Lab Members
+## 2. Discussion After Watching the Talk with the Lab Members
 
 - The presenter claims that current ML algorithms are like old-brain. He also says that old-brain is not generalized enough. But can we make an old-brain with the current conventional models?
     - Because of the exponential data hypothesis (that when the number of domains increases, the required training data increases multiplicatively rather than additively), it would take too many data samples to train a conventional model to learn multi-tasking, so it can be as generalized as the old-brain.
