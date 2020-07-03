@@ -121,7 +121,6 @@ This is like fact checking, like solving a puzzle and retrace back which part of
 
 ## 3. Reading List for Further Studies
 
-- Reading list for later.
 - Cloned HMM [paper](https://arxiv.org/abs/1905.00507).
 - Generative model [PRML](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf).
 - Graphical model [PRML](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf).
