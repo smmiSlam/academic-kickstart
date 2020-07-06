@@ -27,7 +27,7 @@ abstract = "Security  has  become  one  of  the  most important requirements for
 abstract_short = "Energy efficient image encryption system."
 
 # Featured image thumbnail (optional)
-image_preview = "multi-scale-CNN-for-semantic-segmentation.jpg"
+image_preview = "jsts_fig.jpg"
 
 # Is this a selected publication? (true/false)
 selected = true
