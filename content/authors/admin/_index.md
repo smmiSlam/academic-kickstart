@@ -63,4 +63,4 @@ user_groups:
 - Visitors
 ---
 
-SM Mazharul Islam is an enthusist in machine learning (ML) and artificial intellienge (AI). His reseacrh goal is to design a generalized learning model which can process data from various domains and combine the aquired infromation within a generalized knowledge base. He has prior research experience in signal processing, image approximation, image segmentation and sentiment analysis.
+I am very enthusistic about machine learning (ML) and artificial intellienge (AI). My research goal is to design a generalized learning model which can process multi-modal data similar to biological brains. I have prior research experiences in image approximation, image segmentation and sentiment analysis.
