@@ -15,7 +15,7 @@ authors = ["SM Mazharul Islam"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["1"]
+publication_types = ["1", "6"]
 
 # Publication name and optional abbreviated version.
 publication = "International Joint Conference on Computational Intelligence"
@@ -44,7 +44,7 @@ projects = []
 tags = ["Retinal Blood Vessel", "Convolutional Neural Network", "Multi-Scale", "Semantic Segmentation"]
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://link.springer.com/chapter/10.1007%2F978-981-15-3607-6_18"
 url_preprint = "https://www.researchgate.net/publication/336890473_Semantic_Segmentation_of_Retinal_Blood_Vessel_via_Multi-_Scale_Convolutional_Neural_Network"
 url_code = ""
 url_dataset = ""
@@ -59,7 +59,7 @@ url_source = ""
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Digital Object Identifier (DOI)
-doi = "10.13140/RG.2.2.28847.07848"
+doi = "https://doi.org/10.1007/978-981-15-3607-6_18"
 
 # Does this page contain LaTeX math? (true/false)
 math = false
