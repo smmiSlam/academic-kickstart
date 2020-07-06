@@ -18,8 +18,8 @@ authors = ["SM Mazharul Islam"]
 publication_types = ["1", "6"]
 
 # Publication name and optional abbreviated version.
-publication = "International Joint Conference on Computational Intelligence"
-publication_short = "IJCCI"
+publication = "International Joint Conference on Computational Intelligence, 2019"
+publication_short = "IJCCI, 2019"
 
 # Abstract and optional shortened version.
 abstract = "Segmentation of Retinal blood vessel is one of the key stages to automate diagnosis and detection of diseases such as Diabetic Retinopathy (DR), glaucoma, hypertension, Age-related Macular Degeneration (AMD) etc. In this paper, a novel semantic segmentation method is presented to extract the blood vessels from retinal fundus images using multi-scale convolutional neural network. Features are extracted from raw fundus images via Tsallis-entropy, adaptive histogram equalization and standard deviation. Then, a multi-scale convolutional neural network is applied on these features to semantically segment the blood vessels. The algorithm is trained only with the training-set images of DRIVE database and then tested on both test-set images of DRIVE database and healthy-patient images of HRF database to evaluate its performance. During the whole evaluation process the network and its weighs has remained fixed. The results show that the proposed method achieves an accuracy, sensitivity , specificity of 95.38%, 79.23%, 97.73% respectively on DRIVE database and 94.03%, 77.52%, 96.07% respectively on HRF database."
