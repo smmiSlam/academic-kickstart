@@ -18,9 +18,9 @@ caption = ""
 +++
 
 # Introduction
-In this post I have tried to point out the key ideas presented in the amzing paper "Universal Intelligence: A Definition of Machine Intelligence" by Shane Legg and Murcus Hutter. Anyone looking for a quick recap on this lenghty paper to refresh his/her momeroy on the definition of machine intelligence would be an ideal audience. 
+In this post I have tried to point out the key ideas presented in the amzing paper **Universal Intelligence: A Definition of Machine Intelligence** by *Shane Legg* and *Murcus Hutter*. Anyone looking for a quick recap on this lenghty paper to refresh his/her momeroy on the definition of machine intelligence would be an ideal audience. 
 
-This is part of a paper review assignment of the course CSE6369.
+This is part of a paper review assignment of the course **CSE6369**.
 
 Thank you for taking the time to read this article! :heart:
 
