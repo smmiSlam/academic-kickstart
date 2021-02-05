@@ -59,6 +59,12 @@ and the authors call this the Universal Intelligence.
 As much as I am amazed by this paper, I would also like to point to the fact that the proposed equation though elegant and robust from a mathematical point of view, might struggle to deal with an open world situation where the possible number of different environments of varied complexity can be a humongous number if not infinite. Hence, within a confined and restricted virtual environment this mathematical definition might be quite successful, but the applicability of this definition within an open world might not be very acceptable.
 
 
+# Further Reading List
+- [Kolomogorov Complexity Measurement](https://en.wikipedia.org/wiki/Kolmogorov_complexity)
+- [AIXI](https://en.wikipedia.org/wiki/AIXI)
+- [C-Test](https://arxiv.org/abs/1412.8529)
+
+
 
 # Useful Links
 
