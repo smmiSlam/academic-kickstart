@@ -26,6 +26,9 @@ Thank you for taking the time to read this article! :heart:
 
 
 # My Summary
+
+> **Intelligence Measures an Aagent’s Aability to Achieve Goals in a Wide Rrange of Environments.**
+
 This paper takes a very thorough and systematic approach to define a robust, mathematical definition of “Intelligence” in general. The authors have weighed most prevailing views on both human intelligence and machine intelligence by referencing prevalent definitions collected from key researchers and philosophers in the relevant areas. Then, they have proposed their own formal definition with clearly pointed out similarities and dissimilarities with the gathered references. Though they have started their discussion with human or in general biological intelligence, the ultimate goal of this paper was to reach a definition for “Machine Intelligence” which has the property of being universal, mathematical, unbiased, practical and objective in nature.
 
 The earlier phase of this paper, which deals with the definition of biological intelligence, seems more like a excellently written literature review or background study to me. This section provides us with the necessary properties and requirements to springboard into the realm of machine intelligence. The section with the formal and mathematical definition of machine learning was particularly very inspiring to me. Their definition covers the following key points-
@@ -47,5 +50,13 @@ Where
 
 and the authors call this the Universal Intelligence.
 
+
+
 # Ending Throughts
 As much as I was amzed by this paper, I would also like to point to the fact that the proposed equation though elegant and robust from a mathematical point of view, might struggle to deal with an open world situation where the possible number of different environments of varied complexity can be a humongous number if not infinite. Hence, within a confined and restricted virtual environment this mathematical definition might be quite successful, but the applicability of this definition within an open world might not be very acceptable.
+
+# Useful Links
+I have used the following websites to write the equations and make other things happen:
+- [CodeCogs](https://codecogs.com/latex/eqneditor.php)
+- [Sciweavers](http://www.sciweavers.org/free-online-latex-equation-editor)
+- [Markdown Guilde](https://about.gitlab.com/handbook/markdown-guide/)
