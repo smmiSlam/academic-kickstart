@@ -34,12 +34,18 @@ The earlier phase of this paper, which deals with the definition of biological i
     - Perception consists of two signals. Observation and Reward. This is relayed by the environment to the agent.
     - Action is what the agent decides to do (with or without previous observation-action-reward history). This is relayed from the agent to the environment.
 - The definition considers the utility between short-term rewards and long-term rewards with the use of a simple discount factor raised to the power of time-step (lambad^i).
-    - Later, they introduced the near-harmonic or quadratic discount factor (1/i^2) which has the property of forcing the total reward to be finite and by weighing reward at different points in future differently i.e. invoking temporal preference.
+    - Later, they introduced the near-harmonic or quadratic discount factor $(1/i^2)$ which has the property of forcing the total reward to be finite and by weighing reward at different points in future differently i.e. invoking temporal preference.
 - However, the most interesting inclusion was the possibility of  weighting rewards from different environments with varied complexity with the help of some sort of environment complexity measurements. Here, Kolmogorov complexity measurement is used for that purpose.
     -To incorporate the theorem of “Occam’s Razor” which states that “Given multiple hypotheses that are consistent with the data, the simplest should be preferred.”, the definition is modified to include a priori probability across all possible environments, where simpler environments are much more likely to occur than the complex ones. The prior probability used here is the Algorithmic Probability Distribution which is basically the fact that each added bit to the Kolmogorov complexity increases the possible state by a factor of two hence reducing the environment probability by half.
 
 Considering all the above facts, the final form of the definition is 
-Y(pi) = Sum(2^-K(mu) V_mu^pi), V_mu^pi = 1/C E(sum(discount_factor*reward))
- and the authors call this the Universal Intelligence.
- 
- 
+
+![equation](https://latex.codecogs.com/gif.latex?%5CUpsilon%20%28%20%5Cpi%20%29%20%3D%20%5Csum_%7B%5Cmu%20%5Cepsilon%20E%7D%202%5E%7B-K%28%5Cmu%29%7D%20V_%7B%5Cmu%7D%5E%7B%5Cpi%7D)
+
+Where
+![equation](https://latex.codecogs.com/gif.latex?V_%7B%5Cmu%7D%5E%7B%5Cpi%7D%28%20%5Cgamma%20%29%20%3D%20%5Cfrac%7B1%7D%7B%20%5CGamma%20%7D%5Cbold%7BE%7D%20%28%5Csum_%7Bi%3D1%7D%5E%7B%5C%20%5Cinfty%20%7D%20%5Cgamma%5Ei%20r_i%29)
+
+and the authors call this the Universal Intelligence.
+
+# Ending Throughts
+As much as I was amzed by this paper, I would also like to point to the fact that the proposed equation though elegant and robust from a mathematical point of view, might struggle to deal with an open world situation where the possible number of different environments of varied complexity can be a humongous number if not infinite. Hence, within a confined and restricted virtual environment this mathematical definition might be quite successful, but the applicability of this definition within an open world might not be very acceptable.
