@@ -18,11 +18,13 @@ caption = ""
 +++
 
 # Introduction
+
 In this post I have tried to point out the key ideas presented in the amzing paper **Universal Intelligence: A Definition of Machine Intelligence** by *Shane Legg* and *Murcus Hutter*. Anyone looking for a quick recap on this lenghty paper to refresh his/her momeroy on the definition of machine intelligence would be an ideal audience. 
 
 This is part of a paper review assignment of the course **CSE6369**.
 
 Thank you for taking the time to read this article! :heart:
+
 
 
 # My Summary
@@ -39,7 +41,7 @@ The earlier phase of this paper, which deals with the definition of biological i
 - The definition considers the utility between short-term rewards and long-term rewards with the use of a simple discount factor raised to the power of time-step ![equation](https://latex.codecogs.com/gif.latex?%5Cgamma%20%5Ei%20r_i)
     - Later, they introduced the near-harmonic or quadratic discount factor ![equation](https://latex.codecogs.com/gif.latex?1/%7Bi%5E2%7D) which has the property of forcing the total reward to be finite and by weighing reward at different points in future differently i.e. invoking temporal preference.
 - However, the most interesting inclusion was the possibility of  weighting rewards from different environments with varied complexity with the help of some sort of environment complexity measurements. Here, Kolmogorov complexity measurement is used for that purpose.
-    - To incorporate the theorem of “Occam’s Razor” which states that “Given multiple hypotheses that are consistent with the data, the simplest should be preferred.”, the definition is modified to include a priori probability across all possible environments, where simpler environments are much more likely to occur than the complex ones. The prior probability used here is the Algorithmic Probability Distribution which is basically the fact that each added bit to the Kolmogorov complexity increases the possible state by a factor of two hence reducing the environment probability by half.
+    - To incorporate the theorem of “Occam’s Razor” which states that `Given multiple hypotheses that are consistent with the data, the simplest should be preferred`, the definition is modified to include a priori probability across all possible environments, where simpler environments are much more likely to occur than the complex ones. The prior probability used here is the Algorithmic Probability Distribution which is basically the fact that each added bit to the Kolmogorov complexity increases the possible state by a factor of two hence reducing the environment probability by half.
 
 Considering all the above facts, the final form of the definition is 
 
@@ -53,9 +55,13 @@ and the authors call this the Universal Intelligence.
 
 
 # Ending Throughts
+
 As much as I was amzed by this paper, I would also like to point to the fact that the proposed equation though elegant and robust from a mathematical point of view, might struggle to deal with an open world situation where the possible number of different environments of varied complexity can be a humongous number if not infinite. Hence, within a confined and restricted virtual environment this mathematical definition might be quite successful, but the applicability of this definition within an open world might not be very acceptable.
 
+
+
 # Useful Links
+
 I have used the following websites to write the equations and make other things happen:
 - [CodeCogs](https://codecogs.com/latex/eqneditor.php)
 - [Sciweavers](http://www.sciweavers.org/free-online-latex-equation-editor)
