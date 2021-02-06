@@ -53,10 +53,19 @@ Where
 and the authors call this the Universal Intelligence.
 
 
-
 # Ending Throughts
 
 As much as I am amazed by this paper, I would also like to point to the fact that the proposed equation though elegant and robust from a mathematical point of view, might struggle to deal with an open world situation where the possible number of different environments of varied complexity can be a humongous number if not infinite. Hence, within a confined and restricted virtual environment this mathematical definition might be quite successful, but the applicability of this definition within an open world might not be very acceptable.
+
+# Critical Confusion
+
+This is the point I had some difficulties to wrap my mind around, so I am making a small note here.
+
+The final formula of the universal intelligence is about the weighted sum of the discounted reward of all possible tasks. But, should all possible task get equal weight? Tasks that we rarely encounter (say a Rat trying to drive a car!) should not have as much importance compared to some other task everyday task (a rat trying to run from a cat :(). That is because these weird/rare/out of pattern/random tasks are so improbable to happen that being successful/failure on them does not impact much or at all on the intelligent measurement. Key thing to note here is that by complexity we are not talking about the physical/intellectual difficulty of these tasks. 
+
+We can think of any arbitrary rules (refer to the independence of turing machine at section 3.3, page 23) to describe the tasks. And within that fixed rule, the task that requires more instructions to be completed, has the higher complexity. This is the definition of Kolomogorov Complexity of an task/environment.
+
+The authors here used the Kolomogorov complexity to distinguish between rare/highely improbable to happen/random tasks from the more common/within pattern ones. As the Kolomogorov Complexity for rare tasks would be considerably higher than the common tasks, the inverse relation between the intelligence and complexity (i.e. rarity) in the final equation adjusts the weighting scheme acording to our common intuition.
 
 
 # Further Reading List
