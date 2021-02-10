@@ -43,13 +43,13 @@ This paper mainly proposes an RL model that is able to solve CarRacing and VizDo
 ### Vision(V)
 Here, a standard Variational Autoencoder (VAE) is used to model the Vision (V) part. The VAE can be used to compress the observation (a 2D image in this case) into a small low-dimensional latent vector (z).
 
-{{< figure src="/img/world_models_VAE.png" title="How a cyclist pictures his current situation.  " numbered="true" lightbox="true" width="50%">}}
+{{< figure src="/img/world_models_VAE.png" title="Lower-dimension representation of the world with VAE.  " numbered="true" lightbox="true" width="50%">}}
 
 
 ### Memory (M)
 An RNN model with Mixture-Density-Network (MDN) is used to model M. The RNN part is responsible to track the previous action-observation history and can be used to predict the future z. But, here instead of predicting the future z deterministically, an MDN is used to predict the probability distribution p(z) of z. Then, z is simply sampled from this predicted p(z) using a hyper-parameter `Temperature`.
 
-{{< figure src="/img/world_models_MDNRNN.png" title="How a cyclist pictures his current situation.  " numbered="true" lightbox="true" width="50%">}}
+{{< figure src="/img/world_models_MDNRNN.png" title="Memory that can be used to predict future.  " numbered="true" lightbox="true" width="50%">}}
 
 
 ### Controller (C)
@@ -60,7 +60,7 @@ The controller itself is a small single layer neural network that maps the z and
 ### V + M + C
 This is how the final model looks like after assembling V, M and C modules.
 
-{{< figure src="/img/world_models_intro.png" title="How a cyclist pictures his current situation.  " numbered="true" lightbox="true" width="50%">}}
+{{< figure src="/img/world_models_intro.png" title="The complete agent.  " numbered="true" lightbox="true" width="50%">}}
 
 
 # Key Achievements
@@ -76,7 +76,7 @@ This is how the final model looks like after assembling V, M and C modules.
     - The iterative training procedure requires the M model to not only predict the next observation x and done, but also predict the action and reward for the next time step. This may be required for more difficult tasks. For instance, if our agent needs to learn complex motor skills to walk around its environment, the world model will learn to imitate its own C model that has already learned to walk. After difficult motor skills, such as walking, is absorbed into a large world
 model with lots of capacity, the smaller C model can rely on the motor skills already absorbed by the world model and focus on learning more higher level skills to navigate itself using the motor skills it had already learned.
 
-{{< figure src="/img/world_models_memory.png" title="How a cyclist pictures his current situation.  " numbered="true" lightbox="true" width="50%">}}
+{{< figure src="/img/world_models_memory.png" title="Future work.  " numbered="true" lightbox="true" width="50%">}}
 
 
 # Further Reading List
