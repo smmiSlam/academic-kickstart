@@ -76,7 +76,7 @@ This is how the final model looks like after assembling V, M and C modules.
     - The iterative training procedure requires the M model to not only predict the next observation x and done, but also predict the action and reward for the next time step. This may be required for more difficult tasks. For instance, if our agent needs to learn complex motor skills to walk around its environment, the world model will learn to imitate its own C model that has already learned to walk. After difficult motor skills, such as walking, is absorbed into a large world
 model with lots of capacity, the smaller C model can rely on the motor skills already absorbed by the world model and focus on learning more higher level skills to navigate itself using the motor skills it had already learned.
 
-{{< figure src="/img/world_models_memory.png" title="Future work.  " numbered="true" lightbox="true" width="50%">}}
+{{< figure src="/img/world_models_memory.png" title="Future work.  " numbered="true" lightbox="true" width="75%">}}
 
 
 # Further Reading List
