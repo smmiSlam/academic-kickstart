@@ -29,10 +29,10 @@ Thank you for taking the time to read this summary! :heart:
 
 # Summary of the Paper
 
-> ***The image of the world around us, which we carry in our head, is just a model. Nobody in his head imagines all the world, government or country. He has only selected concepts, and relationships between them, and uses those to represent the real system.* - Jay Wright Forrester**
+> **The image of the world around us, which we carry in our head, is just a model. Nobody in his head imagines all the world, government or country. He has only selected concepts, and relationships between them, and uses those to represent the real system. - Jay Wright Forrester**
 
-> What we perceive at any given moment is governed by our brain’s prediction of the future based on our internal model. - Nortmann et al., 2015;
-Gerrit et al., 2013.
+> **What we perceive at any given moment is governed by our brain’s prediction of the future based on our internal model. - Nortmann et al., 2015;
+Gerrit et al., 2013.**
 
 {{< figure src="/img/world_models_intro.png" title="How a cyclist pictures his current situation.  " numbered="true" lightbox="true" width="50%">}}
 
