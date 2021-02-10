@@ -27,7 +27,7 @@ Thank you for taking the time to read this summary! :heart:
 
 
 
-# My Summary
+# Summary of the Paper
 
 > ***The image of the world around us, which we carry in our head, is just a model. Nobody in his head imagines all the world, government or country. He has only selected concepts, and relationships between them, and uses those to represent the real system.* - Jay Wright Forrester**
 
@@ -63,7 +63,7 @@ This is how the final model looks like after assembling V, M and C modules.
 {{< figure src="/img/world_models_agent.png" title="The complete agent.  " numbered="true" lightbox="true" width="50%">}}
 
 
-# Key Achievements
+# Key Achievements of this Work
 
 - As the agent's selection of action considers the current observation(as low-dimensional latent-represnation) and the previous history (hidden state of RNN), the agent can act instictively (as a baseball batter acts when he hits the ball). 
 - Because of the generative nature of the MDN-RNN, an agent can generate its own dream-world and train itself in that dream-world. Then, this trained agent can actually be ported into the actual enviroment. This can be really useful for robots to be trained in a simulated world, and then deployed into the real world.
