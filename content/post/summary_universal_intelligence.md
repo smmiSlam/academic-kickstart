@@ -2,13 +2,13 @@
 title = "Summary on Universal Intelligence by Legg & Hutter"
 
 date = 2021-02-05T00:00:00
-lastmod = 2020-02-05T00:05:05
+lastmod = 2020-02-10T00:05:05
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["SM Mazharul Islam"]
 
-tags = ["Summary"]
+tags = ["Summary", "CSE6369"]
 summary = "This is my summary of the excellent attempt of Shane Legg and Murcus Hutter to present a formal definition of Machine Intelligence."
 
 [header]
