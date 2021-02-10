@@ -60,7 +60,7 @@ The controller itself is a small single layer neural network that maps the z and
 ### V + M + C
 This is how the final model looks like after assembling V, M and C modules.
 
-{{< figure src="/img/world_models_intro.png" title="The complete agent.  " numbered="true" lightbox="true" width="50%">}}
+{{< figure src="/img/world_models_agent.png" title="The complete agent.  " numbered="true" lightbox="true" width="50%">}}
 
 
 # Key Achievements
