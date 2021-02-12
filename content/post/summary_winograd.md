@@ -55,7 +55,15 @@ It is these **other sources of information** that is also known as the **backgro
 ## What is Winograd Challenge and why
 Previously proposed tests like Turing's Imitiation Game and Searle's Chinese Room argument has drawbacks when it comes to test the existence of intelligence within an agent/subject. Like the turning test allows a natural, freeflowing conversation between the interogator and the examinee and the coverage of such a test is simply too huge. Also it fails to reproduce the result effectively. The Chinese room argument does not hold in a number of ground, like, the rule book would be so large that it can never exist, or if it did, the agent could memorize it to learn the language Chinese etc.
 
-Winograd Schema Challenge 
+Winograd Schema Challenge is proposed here as an alternative, is a small reading comprehension test involving a single binary question. In each of the questions, we have the following four features:
+- Two parties are mentioned in a sentence by noun phrases. They can be two males, two females, two inanimate objects or two groups of people or objects.
+- A pronoun or possessive adjective is used in the sentence in reference to one of the parties, but is also of the right sort for the second party. In the case of males, it is “he/him/his”; for females, it is “she/her/her” for inanimate object it is “it/it/its,” and for groups it is “they/them/their.”
+- The question involves determining the referent of the pronoun or possessive adjective. Answer 0 is always the first party mentioned in the sentence (but repeated from the sentence for clarity), and Answer 1 is the second party.
+- There is a word (called the special word) that appears in the sentence and possibly the question. When it is replaced by another word (called the alternate word), everything still makes perfect sense, but the answer changes.
+
+Example: The town councillors refused to give the angry demonstrators a permit because they feared violence. Who feared violence?
+
+Answer 0: the town councillors, Answer 1: the angry demonstrators
 
 
 
