@@ -1,5 +1,5 @@
 +++
-title = "Summary on The Winograd Schema Challenge and Common Sense, The Turing Test, and The Quest for Real AI by Hector J. Levesqueandby et. al."
+title = "Summary on The Winograd Schema Challenge and Common Sense, The Turing Test, and The Quest for Real AI by Hector J. Levesqueand et. al."
 
 date = 2021-02-12T00:00:00
 lastmod = 2020-02-12T00:05:05
