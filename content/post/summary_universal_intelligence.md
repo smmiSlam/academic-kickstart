@@ -8,7 +8,7 @@ draft = false
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["SM Mazharul Islam"]
 
-tags = ["Summary", "CSE6369"]
+tags = ["Summary", "CSE6369", "Model"]
 summary = "This is my summary of the excellent attempt of Shane Legg and Murcus Hutter to present a formal definition of Machine Intelligence."
 
 [header]
