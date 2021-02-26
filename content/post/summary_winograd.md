@@ -68,7 +68,7 @@ Answer 0: the town councillors, Answer 1: the angry demonstrators
 
 
 # Ending Thoughts
-
+Surprisingly model like GPT-3 has already solved winograd challenge with human level accuracy or may be even more. Does that mean the quest for AI is done? May be not. Concepts like "Embodied AI" or "Embodied Control" requires a two-way connection between the body and the mind. But, the current models mostly provide a learning system or brain, we are far away from the embodied AI. Parhaps, that would be the next big step.
 
 
 # Further Reading List
