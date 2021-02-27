@@ -1,5 +1,5 @@
 +++
-title = "Summary on World Models by David Ha & Jürgen Schmidhuber"
+title = "Summary on Deep Neuroethology of a Virtual Rodent by Josh Merel et. al."
 
 date = 2021-02-26T00:00:00
 lastmod = 2020-02-26T00:05:05
@@ -19,7 +19,7 @@ caption = ""
 
 # Introduction
 
-In this post I have tried to point out the key ideas presented in the paper **Deep Neuroethology of a Virtual Rodent** by *David Ha* & *Jürgen Schmidhuber*. Anyone looking for a quick glimps on this SOTA RL model or a memory-refreash on previous read, would be an ideal audience. 
+In this post I have tried to point out the key ideas presented in the paper **Deep Neuroethology of a Virtual Rodent** *Josh Merel et. al.*. Anyone looking for a quick glimps on this paper to refreash previous read, would be an ideal audience. 
 
 This is also part of a paper review assignment of the course **CSE6369**.
 
