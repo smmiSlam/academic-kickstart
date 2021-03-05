@@ -36,7 +36,7 @@ The described environment has integrated language channel into a 3D simulated wo
 ## The Agent
 In the above environment, an agent perceives its surroundings via a constant stream of continuous visual input and a textual instruction. Most importantly, the agent can control it's own movement to decide where to focus its visual sensors and thus controlling exploration of it's surroundings. The agent’s primary objective is is to find a policy which maximizes the expected discounted return.
 
-## The model
+## The Model
 The model is a single neural network that has four different modules as folloing
 
 - Visionv (V) Module: A convolution based encoder.
@@ -74,4 +74,4 @@ Also, even though the envinment seemed to have some diversity in terms of variou
 
 # Further Reading List
 - [Auto-geressive Model](https://www.imdb.com/title/tt0062622/)
-- [Embodied AI](https://en.wikipedia.org/wiki/Embodied_cognition))
+- [Embodied AI](https://en.wikipedia.org/wiki/Embodied_cognition)
