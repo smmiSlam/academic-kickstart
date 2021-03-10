@@ -1,8 +1,8 @@
 +++
 title = "Summary on How To Grow a Robot by Mark H. Lee"
 
-date = 2021-10-05T00:00:00
-lastmod = 2020-10-05T00:05:05
+date = 2021-03-10T00:00:00
+lastmod = 2020-03-10T00:05:05
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
