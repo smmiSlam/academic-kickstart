@@ -28,10 +28,7 @@ Thank you for taking the time to read this article! :heart:
 
 # My Summary
 
-Developmental Robotics presents a nice a way to grow a robot from the very early stage of development. This can significantly have reduce the requirement of existing knowledge and assumptions for the learning models. Also, 
-
-
-A simulated environment is better than physical environment setups on the following aspects,
+Developmental Robotics presents a nice a way to grow a robot from the very early stage of development. This can significantly have reduce the requirement of existing knowledge and assumptions for the learning models. However, as a testing ground, a simulated environment is better than physical environment setups on the following aspects,
 
 - Low cost setup and maintainance of the experimental environment
 
@@ -40,11 +37,11 @@ A simulated environment is better than physical environment setups on the follow
 - Independence from physical time-line: Take a human infant for example. It takes years before a human infant can perform intelligent tasks, because we human are bound by our biological body and the natural flow of time. When a robot is trained in the physical environment it is bound by the same natural flow of time. However, if we can port the agent to a simulated environment, we now would have CPU clock time. This can run all the experiments and learning episodes that much faster.
 
 
-Apart from being a simulated environment SEDRo facilitates the following key attributes which are essential for human-like AI training.
+SEDRo is such a simulated environment and it contains some other featuresm or attributes that are essential for human-like AI training.
 
 - Human like expereinces: This is the most significant contribution of SEDRo in my opinion. Exposing the agent to the experiences that a average human infant goes through can very useful to follow the developmental trajectory of human.
 
-- Open-ended task: SEDRo presents experiments which do not have any specific instructions, rules or rewards.
+- Open-ended task: SEDRo presents experiments which do not have any specific instructions, rules or rewards. If we think about it, majority of the tasks a human infant performs are open-ended in nature.
 
 - Longitudinal learning: The experimental observations of SERDo is presented in such a way that an agent would have to master an earlier level task to get access to the subsequent tasks. The agent's body itself would go through continuous development. Hence a task that was may be impossible for a young agent due to physical and sesory limilations, might be attainable in the later phases as the associated constraints are eased. This whole process would allow curriculum learning that can expedite learning of advanced tasks with the help of learning several basic tasks first.
 
