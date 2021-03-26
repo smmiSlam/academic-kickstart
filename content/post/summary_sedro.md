@@ -32,9 +32,12 @@ Developmental Robotics presents a nice a way to grow a robot from the very early
 
 
 A simulated environment is better than physical environment setups on the following aspects,
-- Low cost setup and maintainance
-- Reproduceable experiments
-- Independence from physical time-line
+
+- Low cost setup and maintainance of the experimental environment
+
+- Reproduceable experiments: Experiments conducted in the physical environment is very hard to control and reproduce. Take weather forcast for example, it is nearly impossible to predict the weather with 100% accuracy even with the fastest computers. A digital computer can only handle a finite number of parameters, where in nature or physical world we have an endless number of parameters.
+ 
+- Independence from physical time-line: Take a human infant for example. It takes years before a human infant can perform intelligent tasks, because we human are bound by our biological body and the natural flow of time. When a robot is trained in the physical environment it is bound by the same natural flow of time. However, if we can port the agent to a simulated environment, we now would have CPU clock time. This can run all the experiments and learning episodes that much faster.
 
 
 Apart from being a simulated environment SEDRo facilitates the following key attributes which are essential for human-like AI training.
