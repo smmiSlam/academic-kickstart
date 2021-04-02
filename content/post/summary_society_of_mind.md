@@ -28,7 +28,9 @@ Thank you for taking the time to read this article! :heart:
 
 # My Summary
 
-Our mind is actually a collection of myriads of mini-minds and each of such mini-minds can have similar structures. As a result if we could sample one of these mini-minds we would be able to see that it performs a very basic set of managing tasks that seems quite foreign to what the mind is actually trying to attain. Each such mini-minds are also equipped with limited short-term memories which allow them to keep track of near past.
+Our mind is actually a collection of myriads of mini-minds and each of such mini-minds can have similar structures. As a result if we could sample one of these mini-minds we would be able to see that it performs a very basic set of managing tasks that seems quite foreign to what the mind is actually trying to attain. Each such mini-minds are also equipped with limited short-term memories which allow them to keep track of near past. In this book the author proposes each such mini-mind to have a duel life. As an agency it knows what it is doing but as an agent it cannot know anything at all.
+
+Whenever the agents under a agency has some quarrel in between them, they can not come to an agreement, this weaken the agencies power to supress the other peer agencies. Once an agency loses its dominance it keeps on functioning its job, just it does not weigh much toward the upward flow. of information. At a later chance, this agency can seige an opportunity to gain back control. This also probably explains how we come to some solution/answer of a problem/question almost instantly.
 
 Our long-term memory and the sensory inputs are always playing a balance game. Imagine thinking about a square circle. The noion is bizarre and alien to us since our long term-memory has no recollection of such an object. Here, the long term memory can override the sensory input. Now imaine looking at a red ball and then trying to see a white ball instead. Even though our long-term memory has seem both these objects, our sensory input here disallowes us to invoke any such illusion or hallucination (except for the use of hallucinogenic drugs may be).
 
