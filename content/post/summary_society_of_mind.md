@@ -30,7 +30,7 @@ Thank you for taking the time to read this article! :heart:
 
 Our mind is actually a collection of myriads of mini-minds connected in a **hierarchical** manner and each of such mini-minds can have similar structures. As a result if we could sample one of these mini-minds we would be able to see that it performs a very basic set of managing tasks that seems quite foreign to what the mind is actually trying to attain. Each such mini-minds are also equipped with limited **short-term memories** which allow them to keep track of near past. In this book the author proposes each such mini-mind to have a duel life. As an agency it knows what it is doing but as an agent it cannot know anything at all.
 
-{{< figure src="/img/society_of_mind_hierarchical.png" title="Hierarchical structure with each mini-mind (agent)" numbered="true" lightbox="true" width="50%">}}
+{{< figure src="/img/society_of_mind_hierarchical.png" title="Hierarchical structure of a sample mini-mind (agent)" numbered="true" lightbox="true" width="50%">}}
 
 Whenever the agents under a agency has some quarrel in between them, they can not come to an agreement, this weaken the agencies power to supress the other peer agencies. Once an agency loses its dominance it keeps on functioning its job, just it does not weigh much toward the upward flow. of information. At a later chance, this agency can seige an opportunity to gain back control. This also probably explains how we come to some solution/answer of a problem/question almost instantly.
 
