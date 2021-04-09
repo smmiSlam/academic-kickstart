@@ -23,6 +23,10 @@ In this post, I have tried to condense the knowledge presented in the book "On I
 
 I have started with a brief definition of intelligence. Then, quickly moved onto Neo-Cortex, which is one of the key structures behind the intellectual superiority of mammalian brains. I tried to touch the major functionalies of neo-cortex that are essential for forming intelligence in section 4. Later, the algorithm and architecture of human neo-cortex has been described in section 5, 6. Section 7, 8, 9 describe some of the ingenious solutions applied by neo-cortex, thalamus and hippocampus to solve problems like associative memory system, hierarchical representation, learning from scratch and future prediction. Finally, in section 10, I have listed out some of my own proposals and thoughts for future references.
 
+This is also part of a paper review assignment of the course **CSE6369**.
+
+Thank you for taking the time to read this summary! :heart:
+
 
 ## 1. Intelligence and Biological Brain
 
@@ -182,15 +186,20 @@ The alternate pathway can be turned on in one of two ways. One is by a signal fr
 
 ## 10. My Thoughts
 
-1. I feel that "Bayesian Probility Theory" seems to be the most closely linked theory to the one presented here. Cortex solves the problem of making specifc prediction from an invariant memoies by using the last specific information to convert an invariant prediction into a specific prediction. Another way to phrase this, in terms of the cortex, is to say that it combines feedforward information (actual input) with feedback information (a prediction in an invariant form). Yet another way to think this is that invariant memories (feedback signal) are analogous to prior probablity. They only keep the generic information about a given signal. As we receive new expereince (feedforward signals through sensors) the posterior probability of a specific prediction is evaluated to make sense of the world around us.
-\[could it be that all the current conventional networks are like frequency interpretation of probability and we need the Bayesian version to solve the drawbacks?\]
+1. Some of the claims this book makes that make neural network a poor model of biological brain, has been implemented through later models I believe. For example, CNN uses **hierarchical representations** and small spacial filters to make sense of an image. Models like LSTM has the capability to process **sequence of events**. But may be the last FC layers as exclusive classifier is not right, probably each layer should have independent ability to have invarient representation of signal and make prediction from them.
 
-2. Some of the claims this book makes that make neural network a poor model of biological brain, has been corrected through later models I believe. For example, CNN uses hierarchical representation and small spacial filters to make sense of an image. Models like LSTM has the capability to process sequence of event. But may be the last FC layers as exclusive classifier is not right, probably each layer should have independent ability to have invarient representation of signal and make prediction from them.
+2. However, it feels like that the **heterarchical memory system with association** and **feedback connections** are the key components that are missing from the current ML models. Also I think, the correct model should have the capability to run or predict even without any input (like idle thought process of a human). Feedback can solve this automatically I think. Backpropagation is not a feedback mechanism, as it only occurs during the training phase. When the system is actually live, information only flows in one direction.
 
-3. However, it feels like that the hierarchical memory system with association and feedback connections are the key components that are missing from the current ML models. Also I think, the correct model should have the capability to run or predict even without any input (like idle thought process of a human). Feedback can solve this automatically I think. Backpropagation is not a feedback mechanism, as it only occurs during the training phase. When the system is actually live, information only flows in one direction.
+3. I think that the correct model should have the ability to control and focus the sensors (for example the location and scope of the convolution window of a CNN) in disposal. This could accertain the fact that behaviour (activity of the sensor) will be a byproduct of the intelligence (prediction capability of the model). This is the idea of the embodied control.
 
-4. I think that the correct model should have the ability to control and focus the sensors (for example the location and scope of the convolution window of a CNN) in disposal. This could accertain the fact that behaviour (activity of the sensor) will be a byproduct of the intelligence (prediction capability of the model).
+4. All the input data should have both spacial and temporal attributes to it.
 
-5. All the input data should have both spacial and temporal attributes to it.
+5. Observing new-borns of human or any other intelligent species might give us some key revelations
 
-6. Observing new-borns of human or any other intelligent species might give us some key revelations
+
+## Further Readings
+
+- [Heterarchy](https://en.wikipedia.org/wiki/Heterarchy#:~:text=A%20heterarchy%20is%20a%20system,a%20number%20of%20different%20ways.)
+- [Practical Example of Heterarchy](https://www.forbes.com/sites/stratfor/2016/02/04/heterarchy-an-idea-finally-ripe-for-its-time/?sh=b830c3c47a72)
+- [The Society of Minds](https://smmislam.netlify.app/post/summary_society_of_mind/)
+- [Embodied Control](https://en.wikipedia.org/wiki/Embodied_cognition)
