@@ -43,7 +43,6 @@ However, the model still is a passive learner in my opinion. It does not differe
 
 A possible hint of this self-supervision part can be found in [this](https://smmislam.netlify.app/post/summary_iac/) paper where the learning progress through various possible learning routes are comapred and the best route is chosen to maximize the agent's average learning rate.
 
-{{< figure src="/img/world_models_memory.png" title="Future work.  " numbered="true" lightbox="true" width="75%">}}
 
 
 # Further Reading List
