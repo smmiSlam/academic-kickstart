@@ -48,6 +48,6 @@ A possible hint of this self-supervision part can be found in [this](https://smm
 # Further Reading List
 - [Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)
 - [Annotated Transformer](http://nlp.seas.harvard.edu/2018/04/03/attention.html)
+- [Transformer from Scratch](http://peterbloem.nl/blog/transformers)
 - [Sequence to Sequence model (translation)](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/)
 - [Minimum GPT](https://github.com/karpathy/minGPT)
-
